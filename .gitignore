@@ -36,3 +36,21 @@ data_pipeline/scripts/run12_90pctid/
 data_pipeline/scripts/run6_80pctid/
 dnabert/slurm-1354650.out
 rf/logs/
+
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+
+# Local bioinformatics data, assemblies, and run intermediates
+data/camda_amr_2025/work/
+data/camda_amr_2025/processed/assemblies/
+data/camda_amr_2025/processed/pilot_outputs/
+data/camda_amr_2025/processed/dbgwas_pilot/
+data/camda_amr_2025/processed/pilot_logs/
+data/dbgwas/
+work/
+fasterq.tmp.*/
+
+# Python-generated files
+__pycache__/
+*.py[cod]

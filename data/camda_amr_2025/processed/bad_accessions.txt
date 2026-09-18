@@ -1,0 +1,10 @@
+# Confirmed unusable accessions to skip before assembly/SPAdes.
+# Accessions with ambiguous FASTQ layouts are tracked separately until a
+# compatible extraction/layout strategy has been tested.
+# One accession per line. These will be ignored by species pilots and staging runs.
+# Keep comments and blank lines; they are ignored by the loader.
+DRR170693
+DRR170697
+DRR170701
+ERR016635
+ERR1218638

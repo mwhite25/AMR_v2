@@ -11,6 +11,11 @@
 - **This work is currently under patent consideration as of September 2025**
 
 ## Usage
+
+For a beginner-oriented walkthrough of the inputs, commands, intermediate
+files, outputs, and troubleshooting checks, see
+[AMR_V2_PIPELINE_GUIDE.md](AMR_V2_PIPELINE_GUIDE.md).
+
 The expected input to the pipeline is a directory containing the CAMDA accessions QCed and trimmed with fastp, and assembled using SPAdes with the --isolate option.
 
 Links to model and FASTA downloads are currently unavailable and will be added after publication.

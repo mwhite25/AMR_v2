@@ -1,0 +1,299 @@
+genus,species,accession,phenotype,antibiotic,measurement_sign,measurement_value,measurement_unit,laboratory_typing_method,laboratory_typing_platform,testing_standard,testing_standard_year,publication,isolation_source,isolation_country,collection_date,conflict_kind
+Streptococcus,pneumoniae,ERR016633,Resistant,ERY,NA,256,mg/L,Broth dilution,NA,CLSI,2013,NA,CSF,Viet Nam,NA,measurement
+Streptococcus,pneumoniae,ERR016633,Resistant,ERY,NA,512,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,Viet Nam,NA,measurement
+Streptococcus,pneumoniae,ERR016633,Resistant,ERY,NA,256,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,Viet Nam,NA,measurement
+Streptococcus,pneumoniae,ERR016644,Resistant,ERY,NA,4,mg/L,Broth dilution,NA,CLSI,2013,NA,Sputum,South Korea,NA,measurement
+Streptococcus,pneumoniae,ERR016644,Resistant,ERY,NA,128,mg/L,Broth dilution,NA,CLSI,2013,NA,NA,Thailand,NA,measurement
+Streptococcus,pneumoniae,ERR016644,Resistant,ERY,NA,4,mg/L,Broth dilution,NA,CLSI,2013,NA,Sputum,Thailand,NA,measurement
+Streptococcus,pneumoniae,ERR016644,Resistant,ERY,NA,128,mg/L,Broth dilution,NA,CLSI,2013,NA,Sputum,South Korea,NA,measurement
+Streptococcus,pneumoniae,ERR016657,Resistant,ERY,NA,1,mg/L,Broth dilution,NA,CLSI,2013,NA,NA,South Korea,NA,measurement
+Streptococcus,pneumoniae,ERR016657,Resistant,ERY,NA,128,mg/L,Broth dilution,NA,CLSI,2013,NA,Sputum,South Korea,NA,measurement
+Streptococcus,pneumoniae,ERR016657,Resistant,ERY,NA,128,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,South Korea,NA,measurement
+Streptococcus,pneumoniae,ERR016657,Resistant,ERY,NA,8,mg/L,Broth dilution,NA,CLSI,2013,NA,Sputum,South Korea,NA,measurement
+Streptococcus,pneumoniae,ERR016657,Resistant,ERY,NA,128,mg/L,Broth dilution,NA,CLSI,2013,NA,Tracheal aspirate,South Korea,NA,measurement
+Streptococcus,pneumoniae,ERR016691,Resistant,ERY,NA,2,mg/L,Broth dilution,NA,CLSI,2013,NA,CSF,1999,NA,measurement
+Streptococcus,pneumoniae,ERR016691,Resistant,ERY,NA,2,mg/L,Broth dilution,NA,CLSI,2013,NA,Sputum,Singapore,NA,measurement
+Streptococcus,pneumoniae,ERR016691,Resistant,ERY,NA,2,mg/L,Broth dilution,NA,CLSI,2013,NA,NA,Singapore,NA,measurement
+Streptococcus,pneumoniae,ERR016691,Resistant,ERY,NA,2,mg/L,Broth dilution,NA,CLSI,2013,NA,Sputum,Hong Kong,NA,measurement
+Streptococcus,pneumoniae,ERR016691,Resistant,ERY,NA,4,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,Malaysia,NA,measurement
+Streptococcus,pneumoniae,ERR016723,Susceptible,ERY,NA,0.125,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,Denmark,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR016723,Susceptible,ERY,NA,0.125,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,Denmark,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR016723,Susceptible,ERY,NA,0.125,mg/L,Broth dilution,NA,CLSI,2013,NA,Swab,Denmark,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR016723,Resistant,ERY,NA,256,mg/L,Broth dilution,NA,CLSI,2013,NA,Sputum,Denmark,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR016723,Resistant,ERY,NA,256,mg/L,Broth dilution,NA,CLSI,2013,NA,Nasopharynx,Denmark,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR016723,Resistant,ERY,NA,256,mg/L,Broth dilution,NA,CLSI,2013,NA,Sputum,Denmark,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR016733,Susceptible,ERY,NA,0.12,mg/L,Broth dilution,NA,CLSI,2013,NA,NA,Germany,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR016733,Resistant,ERY,NA,32,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,Germany,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR016733,Resistant,ERY,NA,32,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,Germany,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR016733,Resistant,ERY,NA,128,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,Germany,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR016733,Resistant,ERY,NA,4,mg/L,Broth dilution,NA,CLSI,2013,NA,Swab,Germany,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR016733,Intermediate,ERY,NA,0.5,mg/L,Broth dilution,NA,CLSI,2013,NA,NA,Spain,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR016785,Resistant,ERY,NA,3,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,South Africa,NA,measurement
+Streptococcus,pneumoniae,ERR016785,Resistant,ERY,NA,256,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood & CSF,South Africa,NA,measurement
+Streptococcus,pneumoniae,ERR016837,Susceptible,ERY,NA,0.06,mg/L,Broth dilution,NA,CLSI,2013,NA,NA,Germany,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR016837,Susceptible,ERY,NA,0.06,mg/L,Broth dilution,NA,CLSI,2013,NA,CSF,Germany,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR016837,Susceptible,ERY,NA,0.06,mg/L,Broth dilution,NA,CLSI,2013,NA,NA,Germany,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR016837,Resistant,ERY,NA,128,mg/L,Broth dilution,NA,CLSI,2013,NA,CSF,Germany,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR016837,Resistant,ERY,NA,2,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,Germany,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR016850,Resistant,ERY,NA,4,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,USA,NA,measurement
+Streptococcus,pneumoniae,ERR016850,Resistant,ERY,NA,2,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,USA,NA,measurement
+Streptococcus,pneumoniae,ERR016850,Resistant,ERY,NA,32,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,USA,NA,measurement
+Streptococcus,pneumoniae,ERR016850,Resistant,ERY,NA,32,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,USA,NA,measurement
+Streptococcus,pneumoniae,ERR016850,Resistant,ERY,NA,32,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,USA,NA,measurement
+Streptococcus,pneumoniae,ERR016850,Resistant,ERY,NA,32,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,USA,NA,measurement
+Streptococcus,pneumoniae,ERR016850,Resistant,ERY,NA,32,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,USA,NA,measurement
+Streptococcus,pneumoniae,ERR019700,Resistant,ERY,NA,256,mg/L,Broth dilution,NA,CLSI,2013,NA,NA,Viet Nam,NA,measurement
+Streptococcus,pneumoniae,ERR019700,Resistant,ERY,NA,128,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,Viet Nam,NA,measurement
+Streptococcus,pneumoniae,ERR019713,Resistant,ERY,NA,32,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,USA,NA,measurement
+Streptococcus,pneumoniae,ERR019713,Resistant,ERY,NA,32,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,USA,NA,measurement
+Streptococcus,pneumoniae,ERR019713,Resistant,ERY,NA,4,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,USA,NA,measurement
+Streptococcus,pneumoniae,ERR019713,Resistant,ERY,NA,2,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,USA,NA,measurement
+Streptococcus,pneumoniae,ERR019724,Resistant,ERY,NA,32,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,USA,NA,measurement
+Streptococcus,pneumoniae,ERR019724,Resistant,ERY,NA,2,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,USA,NA,measurement
+Streptococcus,pneumoniae,ERR019724,Resistant,ERY,NA,32,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,USA,NA,measurement
+Streptococcus,pneumoniae,ERR023428,Susceptible,ERY,<=,0.125,mg/L,Broth dilution,NA,CLSI,2013,NA,Sputum,United Kingdom,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR023428,Susceptible,ERY,<=,0.125,mg/L,Broth dilution,NA,CLSI,2013,NA,Nasopharynx,United Kingdom,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR023428,Susceptible,ERY,<=,0.125,mg/L,Broth dilution,NA,CLSI,2013,NA,Nasopharynx,United Kingdom,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR023428,Resistant,ERY,NA,2,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,USA,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR023428,Resistant,ERY,NA,1,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,United Kingdom,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR023450,Susceptible,ERY,<=,0.125,mg/L,Broth dilution,NA,CLSI,2013,NA,Sputum,United Kingdom,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR023450,Resistant,ERY,NA,16,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,United Kingdom,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR023450,Resistant,ERY,NA,16,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,United Kingdom,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR023450,Resistant,ERY,NA,8,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,Georgia,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR024224,Resistant,ERY,NA,4,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024224,Resistant,ERY,NA,4,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024224,Resistant,ERY,NA,64,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024224,Resistant,ERY,NA,4,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024224,Resistant,ERY,NA,1,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024226,Resistant,ERY,NA,64,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024226,Resistant,ERY,NA,64,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024226,Resistant,ERY,NA,64,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024226,Resistant,ERY,NA,4,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024226,Resistant,ERY,NA,4,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024227,Resistant,ERY,NA,1,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024227,Resistant,ERY,NA,4,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024227,Resistant,ERY,NA,2,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024228,Resistant,ERY,NA,4,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024228,Resistant,ERY,NA,64,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024228,Resistant,ERY,NA,64,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024228,Resistant,ERY,NA,1,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024229,Resistant,ERY,NA,4,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024229,Resistant,ERY,NA,2,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024230,Resistant,ERY,NA,4,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024230,Resistant,ERY,NA,4,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024230,Resistant,ERY,NA,1,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024230,Resistant,ERY,NA,64,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024230,Resistant,ERY,NA,64,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024230,Resistant,ERY,NA,64,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024231,Resistant,ERY,NA,64,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024231,Resistant,ERY,NA,4,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024233,Resistant,ERY,NA,64,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024233,Resistant,ERY,NA,4,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024233,Resistant,ERY,NA,4,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024233,Resistant,ERY,NA,64,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024233,Resistant,ERY,NA,2,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024233,Resistant,ERY,NA,64,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024234,Resistant,ERY,NA,64,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024234,Resistant,ERY,NA,1,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024234,Resistant,ERY,NA,64,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024234,Resistant,ERY,NA,2,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024234,Resistant,ERY,NA,4,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024235,Resistant,ERY,NA,4,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024235,Resistant,ERY,NA,64,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024236,Resistant,ERY,NA,64,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024236,Resistant,ERY,NA,64,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024236,Resistant,ERY,NA,4,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024236,Resistant,ERY,NA,4,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024236,Resistant,ERY,NA,4,mg/L,Broth dilution,NA,CLSI,2013,NA,Respiratory tract,Spain,NA,measurement
+Streptococcus,pneumoniae,ERR024271,Resistant,ERY,NA,1,mg/L,Broth dilution,NA,CLSI,2013,NA,NA,Canada,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR024271,Resistant,ERY,NA,2,mg/L,Broth dilution,NA,CLSI,2013,NA,NA,Canada,NA,phenotype;measurement
+Streptococcus,pneumoniae,ERR024271,Intermediate,ERY,NA,0.5,mg/L,Broth dilution,NA,CLSI,2013,NA,NA,Canada,NA,phenotype;measurement
+Staphylococcus,aureus,ERR029341,Resistant,ERY,NA,NA,NA,Disk diffusion,NA,CLSI,2013,25903077,NA,Singapore,NA,phenotype
+Staphylococcus,aureus,ERR029341,Susceptible,ERY,NA,NA,NA,Disk diffusion,NA,CLSI,2013,25903077,NA,Singapore,NA,phenotype
+Staphylococcus,aureus,ERR029341,Susceptible,ERY,NA,NA,NA,Disk diffusion,NA,CLSI,2013,25903077,NA,Singapore,NA,phenotype
+Staphylococcus,aureus,ERR029354,Resistant,ERY,NA,NA,NA,Disk diffusion,NA,CLSI,2013,25903077,NA,Singapore,NA,phenotype
+Staphylococcus,aureus,ERR029354,Susceptible,ERY,NA,NA,NA,Disk diffusion,NA,CLSI,2013,25903077,NA,Singapore,NA,phenotype
+Staphylococcus,aureus,ERR029468,Resistant,ERY,NA,NA,NA,Disk diffusion,NA,CLSI,2013,25903077,NA,Singapore,NA,phenotype
+Staphylococcus,aureus,ERR029468,Susceptible,ERY,NA,NA,NA,Disk diffusion,NA,CLSI,2013,25903077,NA,Singapore,NA,phenotype
+Neisseria,gonorrhoeae,ERR191801,Susceptible,TET,NA,0.25,mg/L,Broth dilution,NA,CLSI,2013,24462211,urethra,USA,NA,phenotype;measurement
+Neisseria,gonorrhoeae,ERR191801,Resistant,TET,NA,2,mg/L,Broth dilution,NA,CLSI,2013,24462211,urethra,USA,NA,phenotype;measurement
+Neisseria,gonorrhoeae,ERR191804,Resistant,TET,NA,2,mg/L,Broth dilution,NA,CLSI,2013,24462211,urethra,USA,NA,measurement
+Neisseria,gonorrhoeae,ERR191804,Resistant,TET,NA,4,mg/L,Broth dilution,NA,CLSI,2013,24462211,urethra,USA,NA,measurement
+Neisseria,gonorrhoeae,ERR191823,Resistant,TET,NA,2,mg/L,Broth dilution,NA,CLSI,2013,24462211,urethra,USA,NA,measurement
+Neisseria,gonorrhoeae,ERR191823,Resistant,TET,NA,4,mg/L,Broth dilution,NA,CLSI,2013,24462211,urethra,USA,NA,measurement
+Neisseria,gonorrhoeae,ERR222902,Resistant,TET,NA,2,mg/L,Broth dilution,NA,CLSI,2013,24462211,urethra,USA,NA,phenotype;measurement
+Neisseria,gonorrhoeae,ERR222902,Intermediate,TET,NA,1,mg/L,Broth dilution,NA,CLSI,2013,24462211,urethra,USA,NA,phenotype;measurement
+Neisseria,gonorrhoeae,ERR223616,Resistant,TET,NA,4,mg/L,Broth dilution,NA,CLSI,2013,24462211,urethra,USA,NA,phenotype;measurement
+Neisseria,gonorrhoeae,ERR223616,Intermediate,TET,NA,1,mg/L,Broth dilution,NA,CLSI,2013,24462211,urethra,USA,NA,phenotype;measurement
+Neisseria,gonorrhoeae,ERR223636,Resistant,TET,NA,2,mg/L,Broth dilution,NA,CLSI,2013,24462211,urethra,USA,NA,measurement
+Neisseria,gonorrhoeae,ERR223636,Resistant,TET,NA,4,mg/L,Broth dilution,NA,CLSI,2013,24462211,urethra,USA,NA,measurement
+Neisseria,gonorrhoeae,ERR223664,Resistant,TET,NA,4,mg/L,Broth dilution,NA,CLSI,2013,24462211,urethra,USA,NA,measurement
+Neisseria,gonorrhoeae,ERR223664,Resistant,TET,NA,2,mg/L,Broth dilution,NA,CLSI,2013,24462211,urethra,USA,NA,measurement
+Neisseria,gonorrhoeae,ERR223668,Susceptible,TET,NA,0.25,mg/L,Broth dilution,NA,CLSI,2013,24462211,urethra,USA,NA,phenotype;measurement
+Neisseria,gonorrhoeae,ERR223668,Intermediate,TET,NA,0.5,mg/L,Broth dilution,NA,CLSI,2013,24462211,urethra,USA,NA,phenotype;measurement
+Neisseria,gonorrhoeae,ERR223695,Resistant,TET,NA,4,mg/L,Broth dilution,NA,CLSI,2013,24462211,urethra,USA,NA,measurement
+Neisseria,gonorrhoeae,ERR223695,Resistant,TET,NA,2,mg/L,Broth dilution,NA,CLSI,2013,24462211,urethra,USA,NA,measurement
+Neisseria,gonorrhoeae,ERR223696,Susceptible,TET,NA,0.25,mg/L,Broth dilution,NA,CLSI,2013,24462211,urethra,USA,NA,phenotype;measurement
+Neisseria,gonorrhoeae,ERR223696,Resistant,TET,NA,4,mg/L,Broth dilution,NA,CLSI,2013,24462211,urethra,USA,NA,phenotype;measurement
+Escherichia,coli,SRR2134681,Susceptible,GEN,<=,1,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,blood,USA,NA,phenotype;measurement
+Escherichia,coli,SRR2134681,Resistant,GEN,NA,20,mm,Disk diffusion,NA,CLSI,2013,NA,blood,USA,NA,phenotype;measurement
+Salmonella,enterica,SRR2567122,Susceptible,GEN,NA,0.5,mg/L,Broth dilution,Sensititre,CLSI,2013,30333126,Chicken Breast,USA,NA,measurement
+Salmonella,enterica,SRR2567122,Susceptible,GEN,=,0.5,mg/L,Broth dilution,NA,CLSI,2013,27381390,Chicken Breast,USA,NA,measurement
+Acinetobacter,baumannii,SRR2916633,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,23812239,leg,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR2916633,Intermediate,CAZ,NA,16,mg/L,Broth dilution,BD Phoenix,CLSI,2013,23812239,leg,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3131162,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3131162,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3131162,Intermediate,CAZ,NA,16,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3131165,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3131165,Intermediate,CAZ,NA,16,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3131209,Susceptible,CAZ,=,8,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Wound,USA,NA,measurement
+Acinetobacter,baumannii,SRR3131209,Susceptible,CAZ,=,4,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Wound,USA,NA,measurement
+Acinetobacter,baumannii,SRR3131209,Susceptible,CAZ,=,4,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Wound,USA,NA,measurement
+Acinetobacter,baumannii,SRR3131209,Susceptible,CAZ,=,8,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Wound,USA,NA,measurement
+Acinetobacter,baumannii,SRR3131209,Susceptible,CAZ,=,8,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Wound,USA,NA,measurement
+Acinetobacter,baumannii,SRR3131209,Susceptible,CAZ,=,8,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Wound,USA,NA,measurement
+Acinetobacter,baumannii,SRR3131219,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3131219,Intermediate,CAZ,NA,16,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3131220,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Blood,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3131220,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Blood,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3131220,Intermediate,CAZ,NA,16,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Blood,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3131226,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3131226,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3131226,Intermediate,CAZ,NA,16,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3131228,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3131228,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3131228,Intermediate,CAZ,NA,16,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3131234,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Surveillance,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3131234,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Surveillance,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3131234,Intermediate,CAZ,NA,16,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Surveillance,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3133099,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Sterile Fluid,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3133099,Intermediate,CAZ,NA,16,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Sterile Fluid,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3137581,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3137581,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3137581,Intermediate,CAZ,NA,16,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3137587,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3137587,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3137587,Intermediate,CAZ,NA,16,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3137588,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3137588,Intermediate,CAZ,NA,16,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3137589,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Cerebrospinal Fluid,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3137589,Intermediate,CAZ,NA,16,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Cerebrospinal Fluid,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3151889,Susceptible,CAZ,=,4,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Blood,USA,NA,measurement
+Acinetobacter,baumannii,SRR3151889,Susceptible,CAZ,<=,2,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Blood,USA,NA,measurement
+Acinetobacter,baumannii,SRR3151889,Susceptible,CAZ,=,8,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Blood,USA,NA,measurement
+Acinetobacter,baumannii,SRR3151889,Susceptible,CAZ,<=,2,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Blood,USA,NA,measurement
+Acinetobacter,baumannii,SRR3151889,Susceptible,CAZ,=,8,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Blood,USA,NA,measurement
+Acinetobacter,baumannii,SRR3151889,Susceptible,CAZ,=,4,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Blood,USA,NA,measurement
+Acinetobacter,baumannii,SRR3152495,Susceptible,CAZ,=,8,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Surveillance,USA,NA,measurement
+Acinetobacter,baumannii,SRR3152495,Susceptible,CAZ,=,8,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Surveillance,USA,NA,measurement
+Acinetobacter,baumannii,SRR3152495,Susceptible,CAZ,=,4,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Surveillance,USA,NA,measurement
+Acinetobacter,baumannii,SRR3152495,Susceptible,CAZ,=,4,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Surveillance,USA,NA,measurement
+Acinetobacter,baumannii,SRR3152495,Susceptible,CAZ,=,8,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Surveillance,USA,NA,measurement
+Acinetobacter,baumannii,SRR3152495,Susceptible,CAZ,=,8,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Surveillance,USA,NA,measurement
+Acinetobacter,baumannii,SRR3152497,Susceptible,CAZ,=,4,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Surveillance,USA,NA,measurement
+Acinetobacter,baumannii,SRR3152497,Susceptible,CAZ,<=,2,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Surveillance,USA,NA,measurement
+Acinetobacter,baumannii,SRR3152506,Susceptible,CAZ,<=,2,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Tissue,USA,NA,measurement
+Acinetobacter,baumannii,SRR3152506,Susceptible,CAZ,<=,2,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Tissue,USA,NA,measurement
+Acinetobacter,baumannii,SRR3152506,Susceptible,CAZ,<=,1,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Tissue,USA,NA,measurement
+Acinetobacter,baumannii,SRR3152506,Susceptible,CAZ,=,2,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Tissue,USA,NA,measurement
+Acinetobacter,baumannii,SRR3152506,Susceptible,CAZ,=,2,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Tissue,USA,NA,measurement
+Acinetobacter,baumannii,SRR3152506,Susceptible,CAZ,<=,1,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Tissue,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170229,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Tissue,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170229,Intermediate,CAZ,NA,16,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Tissue,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170231,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Tissue,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170231,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Tissue,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170231,Intermediate,CAZ,NA,16,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Tissue,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170236,Susceptible,CAZ,<=,2,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Wound,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170236,Susceptible,CAZ,=,4,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Wound,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170236,Susceptible,CAZ,=,4,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Wound,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170236,Susceptible,CAZ,=,4,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Wound,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170236,Susceptible,CAZ,<=,2,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Wound,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170236,Susceptible,CAZ,=,4,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Wound,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170242,Susceptible,CAZ,=,8,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Tissue,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170242,Susceptible,CAZ,=,8,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Tissue,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170242,Susceptible,CAZ,=,8,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Tissue,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170242,Susceptible,CAZ,=,4,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Tissue,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170242,Susceptible,CAZ,=,8,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Tissue,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170242,Susceptible,CAZ,=,4,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Tissue,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170243,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Surveillance,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170243,Intermediate,CAZ,NA,16,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Surveillance,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170255,Susceptible,CAZ,=,4,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170255,Intermediate,CAZ,NA,16,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170261,Susceptible,CAZ,=,4,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,NA,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170261,Susceptible,CAZ,=,4,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,NA,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170261,Susceptible,CAZ,=,8,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,NA,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170261,Susceptible,CAZ,=,8,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,NA,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170589,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Respiratory,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170589,Intermediate,CAZ,NA,16,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Respiratory,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170590,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Surveillance,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170590,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Surveillance,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170590,Intermediate,CAZ,NA,16,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Surveillance,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170592,Resistant,CAZ,NA,32,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Sterile Body Site,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170592,Resistant,CAZ,NA,32,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Sterile Body Site,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170592,Intermediate,CAZ,NA,16,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Sterile Body Site,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170593,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Surveillance,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170593,Intermediate,CAZ,NA,16,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Surveillance,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170596,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Surveillance,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170596,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Surveillance,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170596,Intermediate,CAZ,NA,16,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Surveillance,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170597,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Sterile Body Site,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170597,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Sterile Body Site,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170597,Intermediate,CAZ,NA,16,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Sterile Body Site,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170597,Intermediate,CAZ,NA,16,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Sterile Body Site,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170608,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Sterile Body Site,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170608,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Sterile Body Site,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170608,Intermediate,CAZ,NA,16,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Sterile Body Site,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170609,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Respiratory,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170609,Intermediate,CAZ,NA,16,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Respiratory,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170610,Susceptible,CAZ,=,4,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Surveillance,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170610,Susceptible,CAZ,=,8,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Surveillance,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170610,Susceptible,CAZ,=,4,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Surveillance,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170610,Susceptible,CAZ,=,4,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Surveillance,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170610,Susceptible,CAZ,=,8,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Surveillance,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170610,Susceptible,CAZ,=,4,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Surveillance,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170735,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170735,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170735,Intermediate,CAZ,NA,16,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170736,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Surveillance,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170736,Intermediate,CAZ,NA,16,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Surveillance,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170738,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170738,Intermediate,CAZ,NA,16,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Wound,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170772,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Surveillance,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170772,Intermediate,CAZ,NA,16,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Surveillance,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170773,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Surveillance,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170773,Intermediate,CAZ,NA,16,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Surveillance,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170774,Susceptible,CAZ,=,4,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Blood,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170774,Susceptible,CAZ,=,8,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Blood,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170774,Susceptible,CAZ,=,8,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Blood,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170774,Susceptible,CAZ,=,4,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Blood,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170777,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Blood,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170777,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Blood,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170777,Intermediate,CAZ,NA,16,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Blood,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170779,Susceptible,CAZ,=,8,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Surveillance,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170779,Susceptible,CAZ,=,8,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Surveillance,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170779,Susceptible,CAZ,=,4,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Surveillance,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170779,Susceptible,CAZ,=,4,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Surveillance,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170783,Susceptible,CAZ,=,4,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Surveillance,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170783,Susceptible,CAZ,=,4,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Surveillance,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170783,Susceptible,CAZ,=,8,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Surveillance,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170783,Susceptible,CAZ,=,8,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Surveillance,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170784,Susceptible,CAZ,=,8,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Surveillance,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170784,Susceptible,CAZ,=,8,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Surveillance,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170784,Resistant,CAZ,NA,32,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Surveillance,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170784,Resistant,CAZ,NA,32,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Surveillance,USA,NA,phenotype;measurement
+Acinetobacter,baumannii,SRR3170785,Susceptible,CAZ,=,8,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Surveillance,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170785,Susceptible,CAZ,<=,2,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,Surveillance,USA,NA,measurement
+Acinetobacter,baumannii,SRR3170785,Susceptible,CAZ,=,4,mg/L,Broth dilution,MicroScan,CLSI,2013,NA,Surveillance,USA,NA,measurement
+Salmonella,enterica,SRR3295665,Susceptible,GEN,NA,0.5,mg/L,Broth dilution,Sensititre,CLSI,2013,30333126,Hogs,USA,NA,measurement
+Salmonella,enterica,SRR3295665,Susceptible,GEN,=,0.5,mg/L,Broth dilution,NA,CLSI,2013,30333126,Hogs,USA,NA,measurement
+Salmonella,enterica,SRR3295772,Susceptible,GEN,NA,0.5,mg/L,Broth dilution,Sensititre,CLSI,2013,30333126,Beef Cattle,USA,NA,measurement
+Salmonella,enterica,SRR3295772,Susceptible,GEN,=,0.5,mg/L,Broth dilution,NA,CLSI,2013,30333126,Beef Cattle,USA,NA,measurement
+Salmonella,enterica,SRR3295896,Susceptible,GEN,NA,0.5,mg/L,Broth dilution,Sensititre,CLSI,2013,30333126,Hogs,USA,NA,measurement
+Salmonella,enterica,SRR3295896,Susceptible,GEN,=,0.5,mg/L,Broth dilution,NA,CLSI,2013,30333126,Hogs,USA,NA,measurement
+Salmonella,enterica,SRR3664630,Resistant,GEN,NA,8,mg/L,Broth dilution,Sensititre,CLSI,2013,30333126,Ground Turkey,USA,NA,phenotype;measurement
+Salmonella,enterica,SRR3664630,Intermediate,GEN,NA,4,mg/L,Broth dilution,CMV2AGNF/CMV3AGNF,CLSI,2013,27381390,Ground Turkey,USA,NA,phenotype;measurement
+Salmonella,enterica,SRR3664630,Intermediate,GEN,NA,4,mg/L,Broth dilution,NA,CLSI,2013,27381390,Ground Turkey,USA,NA,phenotype;measurement
+Salmonella,enterica,SRR3664630,Intermediate,GEN,NA,4,mg/L,Broth dilution,NA,CLSI,2013,27381390,Ground Turkey,USA,NA,phenotype;measurement
+Salmonella,enterica,SRR3664630,Intermediate,GEN,NA,4,mg/L,Broth dilution,CMV2AGNF/CMV3AGNF,CLSI,2013,27381390,Ground Turkey,USA,NA,phenotype;measurement
+Pseudomonas,aeruginosa,SRR4019389,Intermediate,CAZ,NA,12,mm,Disk diffusion,KB panel,CLSI,2013,NA,sputum,USA,NA,measurement
+Pseudomonas,aeruginosa,SRR4019389,Intermediate,CAZ,NA,16,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,sputum,USA,NA,measurement

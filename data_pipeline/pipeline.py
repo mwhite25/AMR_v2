@@ -190,7 +190,13 @@ def get_hits(accessions_list, assemblies_dir, species_to_accessions, dbgwas_dir,
     if LEAKAGE or grouping == 'per_species': 
         hits_base_dir = os.path.join(hits_base_dir, 'per_species') #should still use 'per_species' directory when doing full or per-antibiotic model unless LEAKAGE is False, when we're trying to do an abalation study
         for species in species_list:
+            if species not in species_to_accessions:
+                print(f'SKIP: no metadata rows for species {species}; not present in the current metadata subset')
+                continue
             accessions = list(set(species_to_accessions[species]) & set(accessions_list))
+            if not accessions:
+                print(f'SKIP: species {species} has no accessions in the current metadata subset')
+                continue
             sig_seqs_path = os.path.join(dbgwas_dir, f'{species}_sig_sequences.fasta')
             os.makedirs(hits_base_dir, exist_ok=True)
 

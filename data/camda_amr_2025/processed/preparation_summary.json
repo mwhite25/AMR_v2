@@ -1,0 +1,42 @@
+{
+  "training": {
+    "raw_rows": 6144,
+    "raw_unique_accessions": 5458,
+    "clean_rows": 5367,
+    "conflict_accessions": 91,
+    "conflict_rows": 298
+  },
+  "testing": {
+    "raw_rows": 5345,
+    "unique_accessions": 5345
+  },
+  "train_test_accession_overlap": 1281,
+  "label_policy": {
+    "Susceptible": 1,
+    "Intermediate": 0,
+    "Resistant": 0
+  },
+  "raw_files_unchanged": true,
+  "assemblies": {
+    "training": {
+      "dataset": "training",
+      "assembly_dir": "data/camda_amr_2025/processed/assemblies/train",
+      "expected": 5367,
+      "present": 6,
+      "missing": 5361
+    },
+    "testing": {
+      "dataset": "testing",
+      "assembly_dir": "data/camda_amr_2025/processed/assemblies/test",
+      "expected": 5345,
+      "present": 0,
+      "missing": 5345
+    }
+  },
+  "dbgwas": {
+    "feature_dir": "data/dbgwas/p0.05/per_species",
+    "expected": 9,
+    "present": 6,
+    "missing": 3
+  }
+}

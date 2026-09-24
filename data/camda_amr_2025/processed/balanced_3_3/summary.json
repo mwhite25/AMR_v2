@@ -1,0 +1,323 @@
+{
+  "quota": 3,
+  "backup_quota": 3,
+  "seed": 42,
+  "selected": 54,
+  "backups": 54,
+  "reused_staged": 13,
+  "remaining_jobs": 41,
+  "skipped": [
+    "DRR170693",
+    "DRR170697",
+    "DRR170701",
+    "ERR016635"
+  ],
+  "species": {
+    "acinetobacter_baumannii": {
+      "S": {
+        "selected": 3,
+        "reused_staged": 0,
+        "to_stage": 3,
+        "backups": 3,
+        "selected_accessions": [
+          "SRR741918",
+          "SRR3152503",
+          "SRR3227007"
+        ],
+        "backup_accessions": [
+          "SRR3224994",
+          "SRR3159168",
+          "SRR3225044"
+        ]
+      },
+      "R": {
+        "selected": 3,
+        "reused_staged": 1,
+        "to_stage": 2,
+        "backups": 3,
+        "selected_accessions": [
+          "SRR1187804",
+          "SRR5237398",
+          "SRR3168639"
+        ],
+        "backup_accessions": [
+          "SRR3223920",
+          "SRR3223173",
+          "SRR3225231"
+        ]
+      }
+    },
+    "campylobacter_jejuni": {
+      "S": {
+        "selected": 3,
+        "reused_staged": 1,
+        "to_stage": 2,
+        "backups": 3,
+        "selected_accessions": [
+          "SRR15053977",
+          "SRR3611736",
+          "SRR3480035"
+        ],
+        "backup_accessions": [
+          "SRR3726393",
+          "SRR15054055",
+          "SRR3995976"
+        ]
+      },
+      "R": {
+        "selected": 3,
+        "reused_staged": 0,
+        "to_stage": 3,
+        "backups": 3,
+        "selected_accessions": [
+          "SRR3545872",
+          "SRR3545870",
+          "SRR3726397"
+        ],
+        "backup_accessions": [
+          "SRR3194381",
+          "SRR3402080",
+          "SRR3583311"
+        ]
+      }
+    },
+    "escherichia_coli": {
+      "S": {
+        "selected": 3,
+        "reused_staged": 1,
+        "to_stage": 2,
+        "backups": 3,
+        "selected_accessions": [
+          "ERR1218638",
+          "SRR5482170",
+          "SRR2239630"
+        ],
+        "backup_accessions": [
+          "SRR2239584",
+          "SRR3996237",
+          "SRR3057122"
+        ]
+      },
+      "R": {
+        "selected": 3,
+        "reused_staged": 0,
+        "to_stage": 3,
+        "backups": 3,
+        "selected_accessions": [
+          "SRR2449085",
+          "SRR2239614",
+          "SRR2239626"
+        ],
+        "backup_accessions": [
+          "SRR3932429",
+          "ERR2209392",
+          "SRR4035120"
+        ]
+      }
+    },
+    "klebsiella_pneumoniae": {
+      "S": {
+        "selected": 3,
+        "reused_staged": 0,
+        "to_stage": 3,
+        "backups": 3,
+        "selected_accessions": [
+          "SRR5386170",
+          "ERR3164771",
+          "SRR5386547"
+        ],
+        "backup_accessions": [
+          "SRR5385505",
+          "SRR5385929",
+          "SRR5385882"
+        ]
+      },
+      "R": {
+        "selected": 3,
+        "reused_staged": 1,
+        "to_stage": 2,
+        "backups": 3,
+        "selected_accessions": [
+          "ERR1218574",
+          "ERR775546",
+          "SRR5386785"
+        ],
+        "backup_accessions": [
+          "SRR5386266",
+          "SRR4017929",
+          "SRR5387311"
+        ]
+      }
+    },
+    "neisseria_gonorrhoeae": {
+      "S": {
+        "selected": 3,
+        "reused_staged": 0,
+        "to_stage": 3,
+        "backups": 3,
+        "selected_accessions": [
+          "ERR2133906",
+          "ERR449512",
+          "ERR449485"
+        ],
+        "backup_accessions": [
+          "ERR449493",
+          "ERR388449",
+          "SRR5827207"
+        ]
+      },
+      "R": {
+        "selected": 3,
+        "reused_staged": 1,
+        "to_stage": 2,
+        "backups": 3,
+        "selected_accessions": [
+          "DRR124693",
+          "SRR969351",
+          "SRR1661181"
+        ],
+        "backup_accessions": [
+          "ERR363628",
+          "ERR349915",
+          "ERR352753"
+        ]
+      }
+    },
+    "pseudomonas_aeruginosa": {
+      "S": {
+        "selected": 3,
+        "reused_staged": 0,
+        "to_stage": 3,
+        "backups": 3,
+        "selected_accessions": [
+          "SRR8737504",
+          "SRR8737435",
+          "SRR8737434"
+        ],
+        "backup_accessions": [
+          "SRR8737399",
+          "SRR8737393",
+          "SRR4417556"
+        ]
+      },
+      "R": {
+        "selected": 3,
+        "reused_staged": 1,
+        "to_stage": 2,
+        "backups": 3,
+        "selected_accessions": [
+          "SRR10037257",
+          "SRR8737442",
+          "SRR8737489"
+        ],
+        "backup_accessions": [
+          "SRR8737519",
+          "SRR8737503",
+          "SRR8737462"
+        ]
+      }
+    },
+    "salmonella_enterica": {
+      "S": {
+        "selected": 3,
+        "reused_staged": 0,
+        "to_stage": 3,
+        "backups": 3,
+        "selected_accessions": [
+          "SRR2566929",
+          "SRR3096080",
+          "SRR2566877"
+        ],
+        "backup_accessions": [
+          "SRR2566979",
+          "SRR3116161",
+          "SRR1556982"
+        ]
+      },
+      "R": {
+        "selected": 3,
+        "reused_staged": 1,
+        "to_stage": 2,
+        "backups": 3,
+        "selected_accessions": [
+          "ERR1197666",
+          "ERR1197669",
+          "SRR3223097"
+        ],
+        "backup_accessions": [
+          "SRR1299268",
+          "SRR3665198",
+          "ERR1197682"
+        ]
+      }
+    },
+    "staphylococcus_aureus": {
+      "S": {
+        "selected": 3,
+        "reused_staged": 3,
+        "to_stage": 0,
+        "backups": 3,
+        "selected_accessions": [
+          "ERR029344",
+          "ERR029348",
+          "ERR029379"
+        ],
+        "backup_accessions": [
+          "ERR418496",
+          "ERR418999",
+          "ERR2309522"
+        ]
+      },
+      "R": {
+        "selected": 3,
+        "reused_staged": 3,
+        "to_stage": 0,
+        "backups": 3,
+        "selected_accessions": [
+          "ERR029343",
+          "ERR029345",
+          "ERR029347"
+        ],
+        "backup_accessions": [
+          "ERR029456",
+          "ERR030161",
+          "ERR030201"
+        ]
+      }
+    },
+    "streptococcus_pneumoniae": {
+      "S": {
+        "selected": 3,
+        "reused_staged": 0,
+        "to_stage": 3,
+        "backups": 3,
+        "selected_accessions": [
+          "ERR016736",
+          "SRR4417290",
+          "ERR124308"
+        ],
+        "backup_accessions": [
+          "SRR4417353",
+          "ERR124227",
+          "ERR129158"
+        ]
+      },
+      "R": {
+        "selected": 3,
+        "reused_staged": 0,
+        "to_stage": 3,
+        "backups": 3,
+        "selected_accessions": [
+          "SRR4417363",
+          "ERR016650",
+          "ERR016769"
+        ],
+        "backup_accessions": [
+          "ERR016777",
+          "ERR019734",
+          "SRR2072233"
+        ]
+      }
+    }
+  }
+}

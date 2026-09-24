@@ -1,0 +1,664 @@
+
+===== pipeline 2026-09-24T07:22:53-07:00 =====
+Arguments: Namespace(assemblies_dir='data/camda_amr_2025/processed/assemblies/train', metadata_path='data/camda_amr_2025/processed/balanced_3_3/training_metadata_present.csv', output_dir='data/camda_amr_2025/processed/datasets', model_type='sequence_based', grouping='per_species', split=None, perspecies_dbgwas_dir='data/dbgwas/p0.05/per_species', train=True, seq_length=1000, group_only=None, run_name='balanced_3_3_poc', blast_identity=80)
+Running BLAST for neisseria_gonorrhoeae:   0%|          | 0/6 [00:00<?, ?it/s]
+
+Building a new DB, current time: 09/24/2026 07:22:56
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/ERR449485/ERR449485
+New DB title:  data/camda_amr_2025/processed/assemblies/train/ERR449485.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 543 sequences in 0.028302 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/ERR449485_hits.tsv
+Running BLAST for neisseria_gonorrhoeae:  17%|█▋        | 1/6 [00:01<00:07,  1.41s/it]
+
+Building a new DB, current time: 09/24/2026 07:22:57
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/ERR449512/ERR449512
+New DB title:  data/camda_amr_2025/processed/assemblies/train/ERR449512.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 687 sequences in 0.0278831 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/ERR449512_hits.tsv
+Running BLAST for neisseria_gonorrhoeae:  33%|███▎      | 2/6 [00:02<00:04,  1.14s/it]
+
+Building a new DB, current time: 09/24/2026 07:22:58
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR969351/SRR969351
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR969351.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 557 sequences in 0.026051 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR969351_hits.tsv
+Running BLAST for neisseria_gonorrhoeae:  50%|█████     | 3/6 [00:03<00:03,  1.03s/it]
+
+Building a new DB, current time: 09/24/2026 07:22:59
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/DRR124693/DRR124693
+New DB title:  data/camda_amr_2025/processed/assemblies/train/DRR124693.fasta
+Sequence type: Nucleotide
+Deleted existing Nucleotide BLAST database named /home/michaelwhite/AMR_v2/work/blast/dbs/train/DRR124693/DRR124693
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 192 sequences in 0.0287809 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/DRR124693_hits.tsv
+Running BLAST for neisseria_gonorrhoeae:  67%|██████▋   | 4/6 [00:04<00:02,  1.15s/it]
+
+Building a new DB, current time: 09/24/2026 07:23:00
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR1661181/SRR1661181
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR1661181.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 249 sequences in 0.0230632 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR1661181_hits.tsv
+Running BLAST for neisseria_gonorrhoeae:  83%|████████▎ | 5/6 [00:05<00:01,  1.14s/it]
+
+Building a new DB, current time: 09/24/2026 07:23:01
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/ERR2133906/ERR2133906
+New DB title:  data/camda_amr_2025/processed/assemblies/train/ERR2133906.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 359 sequences in 0.0222728 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/ERR2133906_hits.tsv
+Running BLAST for neisseria_gonorrhoeae: 100%|██████████| 6/6 [00:06<00:00,  1.11s/it]Running BLAST for neisseria_gonorrhoeae: 100%|██████████| 6/6 [00:06<00:00,  1.13s/it]
+Running BLAST for staphylococcus_aureus:   0%|          | 0/6 [00:00<?, ?it/s]
+
+Building a new DB, current time: 09/24/2026 07:23:02
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/ERR029343/ERR029343
+New DB title:  data/camda_amr_2025/processed/assemblies/train/ERR029343.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 279 sequences in 0.0312831 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/ERR029343_hits.tsv
+Running BLAST for staphylococcus_aureus:  17%|█▋        | 1/6 [00:03<00:19,  3.81s/it]
+
+Building a new DB, current time: 09/24/2026 07:23:06
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/ERR029348/ERR029348
+New DB title:  data/camda_amr_2025/processed/assemblies/train/ERR029348.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 259 sequences in 0.0289531 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/ERR029348_hits.tsv
+Running BLAST for staphylococcus_aureus:  33%|███▎      | 2/6 [00:07<00:15,  3.78s/it]
+
+Building a new DB, current time: 09/24/2026 07:23:10
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/ERR029379/ERR029379
+New DB title:  data/camda_amr_2025/processed/assemblies/train/ERR029379.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 250 sequences in 0.0294671 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/ERR029379_hits.tsv
+Running BLAST for staphylococcus_aureus:  50%|█████     | 3/6 [00:11<00:11,  3.83s/it]
+
+Building a new DB, current time: 09/24/2026 07:23:14
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/ERR029347/ERR029347
+New DB title:  data/camda_amr_2025/processed/assemblies/train/ERR029347.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 259 sequences in 0.030328 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/ERR029347_hits.tsv
+Running BLAST for staphylococcus_aureus:  67%|██████▋   | 4/6 [00:15<00:07,  3.83s/it]
+
+Building a new DB, current time: 09/24/2026 07:23:17
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/ERR029344/ERR029344
+New DB title:  data/camda_amr_2025/processed/assemblies/train/ERR029344.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 263 sequences in 0.0295861 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/ERR029344_hits.tsv
+Running BLAST for staphylococcus_aureus:  83%|████████▎ | 5/6 [00:19<00:03,  3.92s/it]
+
+Building a new DB, current time: 09/24/2026 07:23:21
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/ERR029345/ERR029345
+New DB title:  data/camda_amr_2025/processed/assemblies/train/ERR029345.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 273 sequences in 0.027745 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/ERR029345_hits.tsv
+Running BLAST for staphylococcus_aureus: 100%|██████████| 6/6 [00:23<00:00,  3.89s/it]Running BLAST for staphylococcus_aureus: 100%|██████████| 6/6 [00:23<00:00,  3.87s/it]
+Running BLAST for streptococcus_pneumoniae:   0%|          | 0/5 [00:00<?, ?it/s]
+
+Building a new DB, current time: 09/24/2026 07:23:25
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/ERR124308/ERR124308
+New DB title:  data/camda_amr_2025/processed/assemblies/train/ERR124308.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 375 sequences in 0.020134 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/ERR124308_hits.tsv
+Running BLAST for streptococcus_pneumoniae:  20%|██        | 1/5 [00:04<00:16,  4.17s/it]
+
+Building a new DB, current time: 09/24/2026 07:23:29
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR2072233/SRR2072233
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR2072233.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 571 sequences in 0.0261929 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR2072233_hits.tsv
+Running BLAST for streptococcus_pneumoniae:  40%|████      | 2/5 [00:08<00:13,  4.42s/it]
+
+Building a new DB, current time: 09/24/2026 07:23:34
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR4417290/SRR4417290
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR4417290.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 104 sequences in 0.0251439 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR4417290_hits.tsv
+Running BLAST for streptococcus_pneumoniae:  60%|██████    | 3/5 [00:14<00:09,  4.84s/it]
+
+Building a new DB, current time: 09/24/2026 07:23:39
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR4417363/SRR4417363
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR4417363.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 101 sequences in 0.0200641 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR4417363_hits.tsv
+Running BLAST for streptococcus_pneumoniae:  80%|████████  | 4/5 [00:19<00:05,  5.10s/it]
+
+Building a new DB, current time: 09/24/2026 07:23:45
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/ERR124227/ERR124227
+New DB title:  data/camda_amr_2025/processed/assemblies/train/ERR124227.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 418 sequences in 0.0214128 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/ERR124227_hits.tsv
+Running BLAST for streptococcus_pneumoniae: 100%|██████████| 5/5 [00:23<00:00,  4.67s/it]Running BLAST for streptococcus_pneumoniae: 100%|██████████| 5/5 [00:23<00:00,  4.70s/it]
+Running BLAST for salmonella_enterica:   0%|          | 0/6 [00:00<?, ?it/s]
+
+Building a new DB, current time: 09/24/2026 07:23:49
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/ERR1197669/ERR1197669
+New DB title:  data/camda_amr_2025/processed/assemblies/train/ERR1197669.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 100 sequences in 0.0372851 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/ERR1197669_hits.tsv
+Running BLAST for salmonella_enterica:  17%|█▋        | 1/6 [00:00<00:04,  1.07it/s]
+
+Building a new DB, current time: 09/24/2026 07:23:50
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/ERR1197666/ERR1197666
+New DB title:  data/camda_amr_2025/processed/assemblies/train/ERR1197666.fasta
+Sequence type: Nucleotide
+Deleted existing Nucleotide BLAST database named /home/michaelwhite/AMR_v2/work/blast/dbs/train/ERR1197666/ERR1197666
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 195 sequences in 0.036658 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/ERR1197666_hits.tsv
+Running BLAST for salmonella_enterica:  33%|███▎      | 2/6 [00:01<00:03,  1.05it/s]
+
+Building a new DB, current time: 09/24/2026 07:23:51
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR3223097/SRR3223097
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR3223097.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 166 sequences in 0.0436919 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR3223097_hits.tsv
+Running BLAST for salmonella_enterica:  50%|█████     | 3/6 [00:03<00:03,  1.06s/it]
+
+Building a new DB, current time: 09/24/2026 07:23:52
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR2566877/SRR2566877
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR2566877.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 141 sequences in 0.0393059 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR2566877_hits.tsv
+Running BLAST for salmonella_enterica:  67%|██████▋   | 4/6 [00:04<00:02,  1.07s/it]
+
+Building a new DB, current time: 09/24/2026 07:23:53
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR2566929/SRR2566929
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR2566929.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 144 sequences in 0.0486889 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR2566929_hits.tsv
+Running BLAST for salmonella_enterica:  83%|████████▎ | 5/6 [00:05<00:01,  1.07s/it]
+
+Building a new DB, current time: 09/24/2026 07:23:54
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR3096080/SRR3096080
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR3096080.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 160 sequences in 0.0415618 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR3096080_hits.tsv
+Running BLAST for salmonella_enterica: 100%|██████████| 6/6 [00:06<00:00,  1.08s/it]Running BLAST for salmonella_enterica: 100%|██████████| 6/6 [00:06<00:00,  1.06s/it]
+Running BLAST for klebsiella_pneumoniae:   0%|          | 0/6 [00:00<?, ?it/s]
+
+Building a new DB, current time: 09/24/2026 07:23:55
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR5386547/SRR5386547
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR5386547.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 485 sequences in 0.0472541 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR5386547_hits.tsv
+Running BLAST for klebsiella_pneumoniae:  17%|█▋        | 1/6 [00:01<00:06,  1.31s/it]
+
+Building a new DB, current time: 09/24/2026 07:23:56
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/ERR775546/ERR775546
+New DB title:  data/camda_amr_2025/processed/assemblies/train/ERR775546.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 441 sequences in 0.053184 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/ERR775546_hits.tsv
+Running BLAST for klebsiella_pneumoniae:  33%|███▎      | 2/6 [00:02<00:05,  1.38s/it]
+
+Building a new DB, current time: 09/24/2026 07:23:58
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR5386170/SRR5386170
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR5386170.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 350 sequences in 0.0455348 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR5386170_hits.tsv
+Running BLAST for klebsiella_pneumoniae:  50%|█████     | 3/6 [00:04<00:04,  1.34s/it]
+
+Building a new DB, current time: 09/24/2026 07:23:59
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/ERR3164771/ERR3164771
+New DB title:  data/camda_amr_2025/processed/assemblies/train/ERR3164771.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 777 sequences in 0.05144 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/ERR3164771_hits.tsv
+Running BLAST for klebsiella_pneumoniae:  67%|██████▋   | 4/6 [00:05<00:02,  1.34s/it]
+
+Building a new DB, current time: 09/24/2026 07:24:00
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/ERR1218574/ERR1218574
+New DB title:  data/camda_amr_2025/processed/assemblies/train/ERR1218574.fasta
+Sequence type: Nucleotide
+Deleted existing Nucleotide BLAST database named /home/michaelwhite/AMR_v2/work/blast/dbs/train/ERR1218574/ERR1218574
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 492 sequences in 0.048245 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/ERR1218574_hits.tsv
+Running BLAST for klebsiella_pneumoniae:  83%|████████▎ | 5/6 [00:06<00:01,  1.35s/it]
+
+Building a new DB, current time: 09/24/2026 07:24:02
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR5386785/SRR5386785
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR5386785.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 322 sequences in 0.055141 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR5386785_hits.tsv
+Running BLAST for klebsiella_pneumoniae: 100%|██████████| 6/6 [00:08<00:00,  1.42s/it]Running BLAST for klebsiella_pneumoniae: 100%|██████████| 6/6 [00:08<00:00,  1.38s/it]
+Running BLAST for escherichia_coli:   0%|          | 0/6 [00:00<?, ?it/s]
+
+Building a new DB, current time: 09/24/2026 07:24:03
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR2239626/SRR2239626
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR2239626.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 248 sequences in 0.046572 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR2239626_hits.tsv
+Running BLAST for escherichia_coli:  17%|█▋        | 1/6 [00:07<00:36,  7.26s/it]
+
+Building a new DB, current time: 09/24/2026 07:24:11
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/ERR1218638/ERR1218638
+New DB title:  data/camda_amr_2025/processed/assemblies/train/ERR1218638.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 277 sequences in 0.0435359 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/ERR1218638_hits.tsv
+Running BLAST for escherichia_coli:  33%|███▎      | 2/6 [00:14<00:29,  7.29s/it]
+
+Building a new DB, current time: 09/24/2026 07:24:18
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR5482170/SRR5482170
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR5482170.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1964 sequences in 0.059329 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR5482170_hits.tsv
+Running BLAST for escherichia_coli:  50%|█████     | 3/6 [00:21<00:21,  7.17s/it]
+
+Building a new DB, current time: 09/24/2026 07:24:25
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR2239614/SRR2239614
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR2239614.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 357 sequences in 0.0582428 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR2239614_hits.tsv
+Running BLAST for escherichia_coli:  67%|██████▋   | 4/6 [00:28<00:14,  7.16s/it]
+
+Building a new DB, current time: 09/24/2026 07:24:32
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR2449085/SRR2449085
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR2449085.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 316 sequences in 0.0546219 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR2449085_hits.tsv
+Running BLAST for escherichia_coli:  83%|████████▎ | 5/6 [00:36<00:07,  7.27s/it]
+
+Building a new DB, current time: 09/24/2026 07:24:40
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR2239630/SRR2239630
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR2239630.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 343 sequences in 0.0546448 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR2239630_hits.tsv
+Running BLAST for escherichia_coli: 100%|██████████| 6/6 [00:43<00:00,  7.22s/it]Running BLAST for escherichia_coli: 100%|██████████| 6/6 [00:43<00:00,  7.22s/it]
+Running BLAST for pseudomonas_aeruginosa:   0%|          | 0/6 [00:00<?, ?it/s]
+
+Building a new DB, current time: 09/24/2026 07:24:47
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR10037257/SRR10037257
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR10037257.fasta
+Sequence type: Nucleotide
+Deleted existing Nucleotide BLAST database named /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR10037257/SRR10037257
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 216 sequences in 0.051193 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR10037257_hits.tsv
+Running BLAST for pseudomonas_aeruginosa:  17%|█▋        | 1/6 [00:02<00:10,  2.02s/it]
+
+Building a new DB, current time: 09/24/2026 07:24:49
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR8737442/SRR8737442
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR8737442.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 130 sequences in 0.046824 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR8737442_hits.tsv
+Running BLAST for pseudomonas_aeruginosa:  33%|███▎      | 2/6 [00:03<00:07,  1.99s/it]
+
+Building a new DB, current time: 09/24/2026 07:24:51
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR8737504/SRR8737504
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR8737504.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 91 sequences in 0.0526748 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR8737504_hits.tsv
+Running BLAST for pseudomonas_aeruginosa:  50%|█████     | 3/6 [00:06<00:06,  2.01s/it]
+
+Building a new DB, current time: 09/24/2026 07:24:53
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR8737489/SRR8737489
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR8737489.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 100 sequences in 0.049588 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR8737489_hits.tsv
+Running BLAST for pseudomonas_aeruginosa:  67%|██████▋   | 4/6 [00:08<00:04,  2.06s/it]
+
+Building a new DB, current time: 09/24/2026 07:24:55
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR8737434/SRR8737434
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR8737434.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 148 sequences in 0.046834 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR8737434_hits.tsv
+Running BLAST for pseudomonas_aeruginosa:  83%|████████▎ | 5/6 [00:10<00:02,  2.01s/it]
+
+Building a new DB, current time: 09/24/2026 07:24:57
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR8737435/SRR8737435
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR8737435.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 90 sequences in 0.04811 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR8737435_hits.tsv
+Running BLAST for pseudomonas_aeruginosa: 100%|██████████| 6/6 [00:12<00:00,  2.00s/it]Running BLAST for pseudomonas_aeruginosa: 100%|██████████| 6/6 [00:12<00:00,  2.01s/it]
+Running BLAST for acinetobacter_baumannii:   0%|          | 0/6 [00:00<?, ?it/s]
+
+Building a new DB, current time: 09/24/2026 07:24:59
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR3227007/SRR3227007
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR3227007.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 299 sequences in 0.0369339 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR3227007_hits.tsv
+Running BLAST for acinetobacter_baumannii:  17%|█▋        | 1/6 [00:01<00:05,  1.06s/it]
+
+Building a new DB, current time: 09/24/2026 07:25:00
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR3168639/SRR3168639
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR3168639.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 144 sequences in 0.033829 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR3168639_hits.tsv
+Running BLAST for acinetobacter_baumannii:  33%|███▎      | 2/6 [00:01<00:03,  1.04it/s]
+
+Building a new DB, current time: 09/24/2026 07:25:01
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR741918/SRR741918
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR741918.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 215 sequences in 0.035902 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR741918_hits.tsv
+Running BLAST for acinetobacter_baumannii:  50%|█████     | 3/6 [00:02<00:02,  1.02it/s]
+
+Building a new DB, current time: 09/24/2026 07:25:02
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR3152503/SRR3152503
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR3152503.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 132 sequences in 0.0343242 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR3152503_hits.tsv
+Running BLAST for acinetobacter_baumannii:  67%|██████▋   | 4/6 [00:04<00:02,  1.09s/it]
+
+Building a new DB, current time: 09/24/2026 07:25:03
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR1187804/SRR1187804
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR1187804.fasta
+Sequence type: Nucleotide
+Deleted existing Nucleotide BLAST database named /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR1187804/SRR1187804
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 158 sequences in 0.03843 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR1187804_hits.tsv
+Running BLAST for acinetobacter_baumannii:  83%|████████▎ | 5/6 [00:05<00:01,  1.05s/it]
+
+Building a new DB, current time: 09/24/2026 07:25:04
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR5237398/SRR5237398
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR5237398.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 225 sequences in 0.0361118 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR5237398_hits.tsv
+Running BLAST for acinetobacter_baumannii: 100%|██████████| 6/6 [00:06<00:00,  1.01s/it]Running BLAST for acinetobacter_baumannii: 100%|██████████| 6/6 [00:06<00:00,  1.02s/it]
+Running BLAST for campylobacter_jejuni:   0%|          | 0/6 [00:00<?, ?it/s]
+
+Building a new DB, current time: 09/24/2026 07:25:05
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR3726397/SRR3726397
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR3726397.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 91 sequences in 0.021775 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR3726397_hits.tsv
+Running BLAST for campylobacter_jejuni:  17%|█▋        | 1/6 [00:00<00:03,  1.63it/s]
+
+Building a new DB, current time: 09/24/2026 07:25:06
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR3480035/SRR3480035
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR3480035.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 52 sequences in 0.014673 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR3480035_hits.tsv
+Running BLAST for campylobacter_jejuni:  33%|███▎      | 2/6 [00:01<00:02,  1.70it/s]
+
+Building a new DB, current time: 09/24/2026 07:25:06
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR3545872/SRR3545872
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR3545872.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 160 sequences in 0.0168889 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR3545872_hits.tsv
+Running BLAST for campylobacter_jejuni:  50%|█████     | 3/6 [00:01<00:01,  1.72it/s]
+
+Building a new DB, current time: 09/24/2026 07:25:07
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR3545870/SRR3545870
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR3545870.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 57 sequences in 0.0188909 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR3545870_hits.tsv
+Running BLAST for campylobacter_jejuni:  67%|██████▋   | 4/6 [00:02<00:01,  1.72it/s]
+
+Building a new DB, current time: 09/24/2026 07:25:07
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR15053977/SRR15053977
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR15053977.fasta
+Sequence type: Nucleotide
+Deleted existing Nucleotide BLAST database named /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR15053977/SRR15053977
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 59 sequences in 0.0188968 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR15053977_hits.tsv
+Running BLAST for campylobacter_jejuni:  83%|████████▎ | 5/6 [00:02<00:00,  1.68it/s]
+
+Building a new DB, current time: 09/24/2026 07:25:08
+New DB name:   /home/michaelwhite/AMR_v2/work/blast/dbs/train/SRR3611736/SRR3611736
+New DB title:  data/camda_amr_2025/processed/assemblies/train/SRR3611736.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 238 sequences in 0.019362 seconds.
+
+
+work/blast/hits/train/balanced_3_3_poc/per_species/SRR3611736_hits.tsv
+Running BLAST for campylobacter_jejuni: 100%|██████████| 6/6 [00:03<00:00,  1.60it/s]Running BLAST for campylobacter_jejuni: 100%|██████████| 6/6 [00:03<00:00,  1.65it/s]
+Generating sequence dataset:   0%|          | 0/53 [00:00<?, ?it/s]Generating sequence dataset:   4%|▍         | 2/53 [00:00<00:10,  4.91it/s]Generating sequence dataset:   6%|▌         | 3/53 [00:00<00:17,  2.88it/s]Generating sequence dataset:  11%|█▏        | 6/53 [00:01<00:08,  5.55it/s]Generating sequence dataset:  13%|█▎        | 7/53 [00:01<00:08,  5.51it/s]Generating sequence dataset:  15%|█▌        | 8/53 [00:02<00:13,  3.41it/s]Generating sequence dataset:  17%|█▋        | 9/53 [00:02<00:11,  3.70it/s]Generating sequence dataset:  19%|█▉        | 10/53 [00:02<00:10,  3.93it/s]Generating sequence dataset:  25%|██▍       | 13/53 [00:02<00:08,  4.68it/s]Generating sequence dataset:  26%|██▋       | 14/53 [00:03<00:07,  4.99it/s]Generating sequence dataset:  30%|███       | 16/53 [00:03<00:05,  6.85it/s]Generating sequence dataset:  34%|███▍      | 18/53 [00:03<00:04,  7.17it/s]Generating sequence dataset:  38%|███▊      | 20/53 [00:03<00:03,  8.87it/s]Generating sequence dataset:  42%|████▏     | 22/53 [00:04<00:04,  6.25it/s]Generating sequence dataset:  43%|████▎     | 23/53 [00:04<00:05,  5.10it/s]Generating sequence dataset:  45%|████▌     | 24/53 [00:04<00:05,  5.10it/s]Generating sequence dataset:  51%|█████     | 27/53 [00:04<00:03,  7.81it/s]Generating sequence dataset:  57%|█████▋    | 30/53 [00:05<00:02,  8.07it/s]Generating sequence dataset:  62%|██████▏   | 33/53 [00:05<00:01, 10.09it/s]Generating sequence dataset:  68%|██████▊   | 36/53 [00:05<00:01, 12.92it/s]Generating sequence dataset:  72%|███████▏  | 38/53 [00:05<00:01, 10.20it/s]Generating sequence dataset:  75%|███████▌  | 40/53 [00:06<00:01,  9.02it/s]Generating sequence dataset:  79%|███████▉  | 42/53 [00:06<00:01,  9.00it/s]Generating sequence dataset:  85%|████████▍ | 45/53 [00:06<00:00, 11.76it/s]Generating sequence dataset:  91%|█████████ | 48/53 [00:06<00:00, 14.13it/s]Generating sequence dataset: 100%|██████████| 53/53 [00:06<00:00, 19.87it/s]Generating sequence dataset: 100%|██████████| 53/53 [00:06<00:00,  7.93it/s]
+Wrote 27444 rows to neisseria_gonorrhoeae_sequence_dataset.csv
+Wrote 105871 rows to staphylococcus_aureus_sequence_dataset.csv
+Wrote 152873 rows to streptococcus_pneumoniae_sequence_dataset.csv
+Wrote 8377 rows to salmonella_enterica_sequence_dataset.csv
+Wrote 17141 rows to klebsiella_pneumoniae_sequence_dataset.csv
+Wrote 98420 rows to escherichia_coli_sequence_dataset.csv
+Wrote 7791 rows to pseudomonas_aeruginosa_sequence_dataset.csv
+Wrote 6647 rows to acinetobacter_baumannii_sequence_dataset.csv
+Wrote 1830 rows to campylobacter_jejuni_sequence_dataset.csv

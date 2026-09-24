@@ -1,0 +1,2 @@
+dataset,genus,species,accession,expected_path,status,source_path,sha256,contig_count,total_bases,error,classification
+training,Campylobacter,jejuni,SRR3545872,data/camda_amr_2025/processed/assemblies/train/SRR3545872.fasta,present,sra:SRR3545872,a5a31564a2b6e2660a52a10db61c9dbd4f90d2569863f6ebab6346ac2effb1a2,160,1727749,,

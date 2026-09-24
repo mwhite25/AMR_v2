@@ -1,0 +1,2 @@
+dataset,genus,species,accession,expected_path,status,source_path,sha256,contig_count,total_bases,error,classification
+training,Pseudomonas,aeruginosa,SRR8737489,data/camda_amr_2025/processed/assemblies/train/SRR8737489.fasta,present,sra:SRR8737489,914e57ea9075efe925dd10df7d76e769d4e94d265fface8253184249c06aa917,100,6388236,,

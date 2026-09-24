@@ -1,0 +1,2 @@
+dataset,genus,species,accession,expected_path,status,source_path,sha256,contig_count,total_bases,error,classification
+training,Klebsiella,pneumoniae,ERR775546,data/camda_amr_2025/processed/assemblies/train/ERR775546.fasta,present,sra:ERR775546,f4983bb2134356efa45ffed8f7d53512695ec0dfd33cabf8bf2fcf221b4cd73e,441,5786154,,

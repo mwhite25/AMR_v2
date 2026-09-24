@@ -1,0 +1,2 @@
+dataset,genus,species,accession,expected_path,status,source_path,sha256,contig_count,total_bases,error,classification
+training,Streptococcus,pneumoniae,ERR124308,data/camda_amr_2025/processed/assemblies/train/ERR124308.fasta,present,sra:ERR124308,d213dff39c08129a8ad901d40fcf232b545dd34031dedc75f132957e57d37161,375,2075025,,

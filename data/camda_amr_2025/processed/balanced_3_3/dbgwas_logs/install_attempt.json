@@ -1,0 +1,10 @@
+{
+  "tried": true,
+  "binary": null,
+  "r_available": false,
+  "docker_available": false,
+  "decision": "fallback_placeholder",
+  "reason": "DBGWAS is not on PATH, R/bugwas are not installed, and no container runtime is available. Short install stopped here instead of compiling GATB or adding DBGWAS to Pixi.",
+  "expected_command": "DBGWAS -strains <species>.strains.tsv -output <work_dir> -nb-cores 4",
+  "prebuilt_binary": "https://www.dropbox.com/s/s9oojqfl1kgi4l5/DBGWAS-0.5.4-Linux-precompiled.tar.gz?dl=1"
+}

@@ -1,0 +1,9 @@
+prefetch ERR2133906 -O data/camda_amr_2025/work/assemblies/training/ERR2133906/sra
+2026-09-23T11:11:20 prefetch.3.4.1: 1) Resolving 'ERR2133906'...
+2026-09-23T11:11:41 prefetch.3.4.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2026-09-23T11:11:42 prefetch.3.4.1: 1) Downloading 'ERR2133906'...
+2026-09-23T11:11:42 prefetch.3.4.1:  SRA Normalized Format file is being retrieved
+2026-09-23T11:11:42 prefetch.3.4.1:  Downloading via HTTPS...
+2026-09-23T11:11:47 prefetch.3.4.1:  HTTPS download succeed
+2026-09-23T11:11:48 prefetch.3.4.1:  'ERR2133906' is valid: 166879499 bytes were streamed from 166877479
+2026-09-23T11:11:48 prefetch.3.4.1: 1) 'ERR2133906' was downloaded successfully

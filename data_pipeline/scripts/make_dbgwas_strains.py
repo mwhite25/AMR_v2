@@ -73,7 +73,19 @@ def main():
     parser.add_argument(
         "--output-dir", type=Path, default=Path("data/camda_amr_2025/processed/dbgwas")
     )
+    parser.add_argument(
+        "--species",
+        action="append",
+        default=[],
+        help="Restrict to one or more species keys (e.g. staphylococcus_aureus). Repeatable.",
+    )
     args = parser.parse_args()
+    requested = {
+        part.strip().lower()
+        for item in args.species
+        for part in item.split(",")
+        if part.strip()
+    }
 
     grouped = defaultdict(list)
     for row in read_rows(args.metadata):
@@ -82,8 +94,12 @@ def main():
     reports = []
     for (genus, species), rows in sorted(grouped.items()):
         species_name = f"{genus}_{species}".lower()
+        if requested and species_name not in requested:
+            continue
         output_path = args.output_dir / f"{species_name}.strains.tsv"
         reports.append(write_manifest(rows, args.assemblies_dir, output_path))
+    if requested and not reports:
+        raise SystemExit(f"No metadata rows matched --species {sorted(requested)}")
 
     print(f"Created {len(reports)} DBGWAS strains manifests in {args.output_dir}")
     for report in reports:

@@ -1,0 +1,2 @@
+dataset,genus,species,accession,expected_path,status,source_path,sha256,contig_count,total_bases,error,classification
+training,Salmonella,enterica,ERR1197669,data/camda_amr_2025/processed/assemblies/train/ERR1197669.fasta,present,sra:ERR1197669,d7e0ebd68457f7c85e6614814131a23cfcef6fce5f47ded175bf1c3aeeacfe38,100,4554195,,

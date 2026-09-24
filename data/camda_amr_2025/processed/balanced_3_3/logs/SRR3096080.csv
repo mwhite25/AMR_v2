@@ -1,0 +1,2 @@
+dataset,genus,species,accession,expected_path,status,source_path,sha256,contig_count,total_bases,error,classification
+training,Salmonella,enterica,SRR3096080,data/camda_amr_2025/processed/assemblies/train/SRR3096080.fasta,present,sra:SRR3096080,dd89718e83589c9c124004103e6a2db0d8b78c90972837bb48699717d7452a12,160,4733744,,

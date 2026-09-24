@@ -1,0 +1,2 @@
+dataset,genus,species,accession,expected_path,status,source_path,sha256,contig_count,total_bases,error,classification
+training,Escherichia,coli,SRR2239626,data/camda_amr_2025/processed/assemblies/train/SRR2239626.fasta,present,sra:SRR2239626,8e757c9c7888b9b5f86f9755c7941b422604ec41ee6d35f764842e6b638a1f64,248,4955626,,

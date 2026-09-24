@@ -1,10 +1,10 @@
 species,feature_path,status
 acinetobacter_baumannii,data/dbgwas/p0.05/per_species/acinetobacter_baumannii_sig_sequences.fasta,present
 campylobacter_jejuni,data/dbgwas/p0.05/per_species/campylobacter_jejuni_sig_sequences.fasta,present
-escherichia_coli,data/dbgwas/p0.05/per_species/escherichia_coli_sig_sequences.fasta,missing
+escherichia_coli,data/dbgwas/p0.05/per_species/escherichia_coli_sig_sequences.fasta,present
 klebsiella_pneumoniae,data/dbgwas/p0.05/per_species/klebsiella_pneumoniae_sig_sequences.fasta,present
 neisseria_gonorrhoeae,data/dbgwas/p0.05/per_species/neisseria_gonorrhoeae_sig_sequences.fasta,present
 pseudomonas_aeruginosa,data/dbgwas/p0.05/per_species/pseudomonas_aeruginosa_sig_sequences.fasta,present
 salmonella_enterica,data/dbgwas/p0.05/per_species/salmonella_enterica_sig_sequences.fasta,present
-staphylococcus_aureus,data/dbgwas/p0.05/per_species/staphylococcus_aureus_sig_sequences.fasta,missing
-streptococcus_pneumoniae,data/dbgwas/p0.05/per_species/streptococcus_pneumoniae_sig_sequences.fasta,missing
+staphylococcus_aureus,data/dbgwas/p0.05/per_species/staphylococcus_aureus_sig_sequences.fasta,present
+streptococcus_pneumoniae,data/dbgwas/p0.05/per_species/streptococcus_pneumoniae_sig_sequences.fasta,present

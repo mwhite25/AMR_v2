@@ -1,0 +1,415 @@
+{
+  "runs": [
+    {
+      "accession": "ERR016650",
+      "status": "bad_accession",
+      "classification": "ambiguous_fastq_layout",
+      "error": "incomplete or ambiguous FASTQ files for ERR016650",
+      "returncode": 0,
+      "seconds": 96.9,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/ERR016650.stage.log"
+    },
+    {
+      "accession": "ERR016736",
+      "status": "bad_accession",
+      "classification": "ambiguous_fastq_layout",
+      "error": "incomplete or ambiguous FASTQ files for ERR016736",
+      "returncode": 0,
+      "seconds": 88.4,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/ERR016736.stage.log"
+    },
+    {
+      "accession": "ERR016769",
+      "status": "bad_accession",
+      "classification": "ambiguous_fastq_layout",
+      "error": "incomplete or ambiguous FASTQ files for ERR016769",
+      "returncode": 0,
+      "seconds": 104.8,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/ERR016769.stage.log"
+    },
+    {
+      "accession": "ERR124308",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 1772.1,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/ERR124308.stage.log"
+    },
+    {
+      "accession": "SRR4417290",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 1143.3,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR4417290.stage.log"
+    },
+    {
+      "accession": "SRR4417363",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 717.8,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR4417363.stage.log"
+    },
+    {
+      "accession": "SRR2239614",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 1772.3,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR2239614.stage.log"
+    },
+    {
+      "accession": "SRR2239626",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 1361.0,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR2239626.stage.log"
+    },
+    {
+      "accession": "SRR2239630",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 2107.0,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR2239630.stage.log"
+    },
+    {
+      "accession": "SRR2449085",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 923.8,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR2449085.stage.log"
+    },
+    {
+      "accession": "SRR5482170",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 4590.8,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR5482170.stage.log"
+    },
+    {
+      "accession": "SRR3152503",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 1262.1,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR3152503.stage.log"
+    },
+    {
+      "accession": "SRR3168639",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 1494.4,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR3168639.stage.log"
+    },
+    {
+      "accession": "SRR3227007",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 738.9,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR3227007.stage.log"
+    },
+    {
+      "accession": "SRR5237398",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 1191.8,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR5237398.stage.log"
+    },
+    {
+      "accession": "SRR741918",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 440.6,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR741918.stage.log"
+    },
+    {
+      "accession": "SRR3480035",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 530.3,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR3480035.stage.log"
+    },
+    {
+      "accession": "SRR3545870",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 198.7,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR3545870.stage.log"
+    },
+    {
+      "accession": "SRR3545872",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 215.8,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR3545872.stage.log"
+    },
+    {
+      "accession": "SRR3611736",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 199.0,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR3611736.stage.log"
+    },
+    {
+      "accession": "SRR3726397",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 260.6,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR3726397.stage.log"
+    },
+    {
+      "accession": "ERR3164771",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 1116.1,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/ERR3164771.stage.log"
+    },
+    {
+      "accession": "ERR775546",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 555.6,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/ERR775546.stage.log"
+    },
+    {
+      "accession": "SRR5386170",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 279.3,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR5386170.stage.log"
+    },
+    {
+      "accession": "SRR5386547",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 150.0,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR5386547.stage.log"
+    },
+    {
+      "accession": "SRR5386785",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 294.7,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR5386785.stage.log"
+    },
+    {
+      "accession": "ERR016777",
+      "status": "bad_accession",
+      "classification": "ambiguous_fastq_layout",
+      "error": "incomplete or ambiguous FASTQ files for ERR016777",
+      "returncode": 0,
+      "seconds": 111.9,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/ERR016777.stage.log"
+    },
+    {
+      "accession": "ERR019734",
+      "status": "bad_accession",
+      "classification": "ambiguous_fastq_layout",
+      "error": "incomplete or ambiguous FASTQ files for ERR019734",
+      "returncode": 0,
+      "seconds": 122.0,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/ERR019734.stage.log"
+    },
+    {
+      "accession": "ERR124227",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 2370.0,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/ERR124227.stage.log"
+    },
+    {
+      "accession": "SRR2072233",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 841.6,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR2072233.stage.log"
+    },
+    {
+      "accession": "ERR2133906",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 452.7,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/ERR2133906.stage.log"
+    },
+    {
+      "accession": "ERR449485",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 355.2,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/ERR449485.stage.log"
+    },
+    {
+      "accession": "ERR449512",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 336.6,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/ERR449512.stage.log"
+    },
+    {
+      "accession": "SRR1661181",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 1849.2,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR1661181.stage.log"
+    },
+    {
+      "accession": "SRR969351",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 1356.7,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR969351.stage.log"
+    },
+    {
+      "accession": "SRR8737434",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 2723.7,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR8737434.stage.log"
+    },
+    {
+      "accession": "SRR8737435",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 2010.4,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR8737435.stage.log"
+    },
+    {
+      "accession": "SRR8737442",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 1191.8,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR8737442.stage.log"
+    },
+    {
+      "accession": "SRR8737489",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 1700.3,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR8737489.stage.log"
+    },
+    {
+      "accession": "SRR8737504",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 741.5,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR8737504.stage.log"
+    },
+    {
+      "accession": "ERR1197669",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 365.9,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/ERR1197669.stage.log"
+    },
+    {
+      "accession": "SRR2566877",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 781.3,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR2566877.stage.log"
+    },
+    {
+      "accession": "SRR2566929",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 1379.5,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR2566929.stage.log"
+    },
+    {
+      "accession": "SRR3096080",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 354.8,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR3096080.stage.log"
+    },
+    {
+      "accession": "SRR3223097",
+      "status": "present",
+      "classification": "",
+      "error": "",
+      "returncode": 0,
+      "seconds": 1818.0,
+      "log": "data/camda_amr_2025/processed/balanced_3_3/logs/SRR3223097.stage.log"
+    }
+  ],
+  "summary": {
+    "attempted": 45,
+    "present": 40,
+    "failed": 5,
+    "still_missing": []
+  }
+}

@@ -1,0 +1,2 @@
+dataset,genus,species,accession,expected_path,status,source_path,sha256,contig_count,total_bases,error,classification
+training,Streptococcus,pneumoniae,SRR4417363,data/camda_amr_2025/processed/assemblies/train/SRR4417363.fasta,present,sra:SRR4417363,fd6f2358f3f80d232907061d569a6adfa6ab72cb9bfa95221c3bba2015c49a6c,101,2138924,,

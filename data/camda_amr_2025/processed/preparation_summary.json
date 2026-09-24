@@ -36,7 +36,7 @@
   "dbgwas": {
     "feature_dir": "data/dbgwas/p0.05/per_species",
     "expected": 9,
-    "present": 6,
-    "missing": 3
+    "present": 9,
+    "missing": 0
   }
 }

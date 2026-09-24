@@ -1,0 +1,9 @@
+prefetch SRR969351 -O data/camda_amr_2025/work/assemblies/training/SRR969351/sra
+2026-09-24T07:02:58 prefetch.3.4.1: 1) Resolving 'SRR969351'...
+2026-09-24T07:03:19 prefetch.3.4.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2026-09-24T07:03:19 prefetch.3.4.1: 1) Downloading 'SRR969351'...
+2026-09-24T07:03:19 prefetch.3.4.1:  SRA Normalized Format file is being retrieved
+2026-09-24T07:03:19 prefetch.3.4.1:  Downloading via HTTPS...
+2026-09-24T07:04:32 prefetch.3.4.1:  HTTPS download succeed
+2026-09-24T07:04:34 prefetch.3.4.1:  'SRR969351' is valid: 1033040181 bytes were streamed from 1033028477
+2026-09-24T07:04:34 prefetch.3.4.1: 1) 'SRR969351' was downloaded successfully

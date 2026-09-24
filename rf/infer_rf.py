@@ -149,6 +149,8 @@ def main():
             #df = filter_feature_type(df, args.feature_type)
             accession_series = df['accession']
             df = preprocess_df(df, species, args)
+            if 'ground_truth_phenotype' in df.columns:
+                df = df.drop(columns=['ground_truth_phenotype'])
             if not args.oof_stack:
                 model_path = os.path.join(args.models_dir, f"{species}_{args.model_type}_model.joblib")
                 model = joblib.load(model_path)

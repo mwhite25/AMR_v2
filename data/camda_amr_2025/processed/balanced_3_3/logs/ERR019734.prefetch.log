@@ -1,0 +1,9 @@
+prefetch ERR019734 -O data/camda_amr_2025/work/assemblies/training/ERR019734/sra
+2026-09-23T14:31:55 prefetch.3.4.1: 1) Resolving 'ERR019734'...
+2026-09-23T14:32:16 prefetch.3.4.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2026-09-23T14:32:17 prefetch.3.4.1: 1) Downloading 'ERR019734'...
+2026-09-23T14:32:17 prefetch.3.4.1:  SRA Normalized Format file is being retrieved
+2026-09-23T14:32:17 prefetch.3.4.1:  Downloading via HTTPS...
+2026-09-23T14:32:25 prefetch.3.4.1:  HTTPS download succeed
+2026-09-23T14:32:25 prefetch.3.4.1:  'ERR019734' is valid: 168536225 bytes were streamed from 168534932
+2026-09-23T14:32:25 prefetch.3.4.1: 1) 'ERR019734' was downloaded successfully

@@ -1,0 +1,2 @@
+dataset,genus,species,accession,expected_path,status,source_path,sha256,contig_count,total_bases,error,classification
+training,Streptococcus,pneumoniae,ERR124227,data/camda_amr_2025/processed/assemblies/train/ERR124227.fasta,present,sra:ERR124227,ff2186baede2c870f7444ddeb9ad9716c931b652e8742cf643509a0a6fe14fcd,418,2155863,,

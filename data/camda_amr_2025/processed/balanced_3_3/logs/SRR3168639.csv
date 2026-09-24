@@ -1,0 +1,2 @@
+dataset,genus,species,accession,expected_path,status,source_path,sha256,contig_count,total_bases,error,classification
+training,Acinetobacter,baumannii,SRR3168639,data/camda_amr_2025/processed/assemblies/train/SRR3168639.fasta,present,sra:SRR3168639,bc37895075664e1e05813c652a0b30258461a2c06f1d2c40222bf711e3a05dbd,144,3984502,,

@@ -29,6 +29,8 @@ SRA_TOOLS = {
     "fastp": {"executable": "fastp", "version_args": ["--version"]},
     "spades": {"executable": "spades.py", "version_args": ["--version"]},
 }
+PAIRED_LAYOUTS = frozenset({"paired", "paired_sra_1_3"})
+FASTQ_EXTENSIONS = (".fastq", ".fastq.gz")
 
 
 class AccessionFailure(ValueError):
@@ -144,20 +146,50 @@ def write_json(path, value):
     path.write_text(json.dumps(value, indent=2) + "\n")
 
 
+def nonempty_fastq(path):
+    return path.is_file() and path.stat().st_size > 0
+
+
+def fastq_member(work_dir, accession, member=None):
+    suffix = "" if member is None else f"_{member}"
+    for extension in FASTQ_EXTENSIONS:
+        path = work_dir / f"{accession}{suffix}{extension}"
+        if nonempty_fastq(path):
+            return path
+    return None
+
+
+def existing_fastq_paths(work_dir, accession):
+    paths = []
+    for member in (1, 2, 3, None):
+        suffix = "" if member is None else f"_{member}"
+        for extension in FASTQ_EXTENSIONS:
+            path = work_dir / f"{accession}{suffix}{extension}"
+            if path.exists():
+                paths.append(path)
+    return paths
+
+
 def detect_fastq_layout(work_dir, accession):
-    paired = [work_dir / f"{accession}_1.fastq", work_dir / f"{accession}_2.fastq"]
-    single = work_dir / f"{accession}.fastq"
-    compressed_paired = [work_dir / f"{accession}_1.fastq.gz", work_dir / f"{accession}_2.fastq.gz"]
-    compressed_single = work_dir / f"{accession}.fastq.gz"
-    if all(path.is_file() for path in paired):
-        return "paired", paired
-    if all(path.is_file() for path in compressed_paired):
-        return "paired", compressed_paired
-    if single.is_file():
+    """Detect paired or single FASTQ layout after fasterq-dump --split-files.
+
+    SRA suffixes are read-member numbers, not biological mate numbers. Some
+    Illumina runs store biological reads as ``_1`` and ``_3``, with a short
+    technical/index ``_2`` that is empty or only a subset of spots. When both
+    biological files are present and nonempty, that pair is used and any
+    leftover ``_2`` is ignored.
+    """
+    read1 = fastq_member(work_dir, accession, 1)
+    read2 = fastq_member(work_dir, accession, 2)
+    read3 = fastq_member(work_dir, accession, 3)
+    single = fastq_member(work_dir, accession)
+    if read1 is not None and read3 is not None:
+        return "paired_sra_1_3", [read1, read3]
+    if read1 is not None and read2 is not None:
+        return "paired", [read1, read2]
+    if single is not None and read1 is None and read2 is None and read3 is None:
         return "single", [single]
-    if compressed_single.is_file():
-        return "single", [compressed_single]
-    if any(path.exists() for path in paired + [single] + compressed_paired + [compressed_single]):
+    if existing_fastq_paths(work_dir, accession):
         raise AccessionFailure(
             "ambiguous_fastq_layout",
             f"incomplete or ambiguous FASTQ files for {accession}",
@@ -206,6 +238,8 @@ def stage_sra_row(row, args, tools):
             stats = validate_fasta(assembly_path)
             row.update(status="present", sha256=sha256(assembly_path), **stats)
             state["state"] = "staged"
+            state.pop("error", None)
+            state.pop("classification", None)
             write_json(state_path, state)
             return
         except ValueError:
@@ -230,25 +264,38 @@ def stage_sra_row(row, args, tools):
         fastq_dir = work_dir / "fastq"
         trimmed_dir = work_dir / "trimmed"
         spades_dir = work_dir / "spades"
-        prefetch = [tool_paths["prefetch"], accession, "-O", str(prefetch_dir)]
-        run_command(prefetch, commands_dir / "prefetch.log", args.dry_run)
-        if not args.dry_run:
-            state["state"] = "downloaded"
-        fasterq = [tool_paths["fasterq_dump"], accession, "--split-files", "-O", str(fastq_dir)]
-        run_command(fasterq, commands_dir / "fasterq-dump.log", args.dry_run)
-        if args.dry_run:
+        layout, reads = None, []
+        if args.resume:
+            try:
+                layout, reads = detect_fastq_layout(fastq_dir, accession)
+            except AccessionFailure:
+                layout, reads = None, []
+        if layout is None:
+            prefetch = [tool_paths["prefetch"], accession, "-O", str(prefetch_dir)]
+            run_command(prefetch, commands_dir / "prefetch.log", args.dry_run)
+            if not args.dry_run:
+                state["state"] = "downloaded"
+            fasterq = [tool_paths["fasterq_dump"], accession, "--split-files", "-O", str(fastq_dir)]
+            run_command(fasterq, commands_dir / "fasterq-dump.log", args.dry_run)
+            if args.dry_run:
+                row.update(status="planned")
+                write_json(state_path, state)
+                return
+            layout, reads = detect_fastq_layout(fastq_dir, accession)
+        elif args.dry_run:
             row.update(status="planned")
             write_json(state_path, state)
             return
-        layout, reads = detect_fastq_layout(fastq_dir, accession)
         if layout is None or not all(fastq_is_valid(path) for path in reads):
             raise AccessionFailure(
                 "ambiguous_fastq_layout",
                 f"missing or invalid FASTQ output for {accession}",
             )
         state.update(state="fastq_ready", reads_layout=layout)
+        state.pop("error", None)
+        state.pop("classification", None)
         trimmed_dir.mkdir(parents=True, exist_ok=True)
-        if layout == "paired":
+        if layout in PAIRED_LAYOUTS:
             trimmed_reads = [trimmed_dir / f"{accession}_1.fastq.gz", trimmed_dir / f"{accession}_2.fastq.gz"]
             fastp = [tool_paths["fastp"], "-i", str(reads[0]), "-I", str(reads[1]), "-o", str(trimmed_reads[0]), "-O", str(trimmed_reads[1]), "-j", str(trimmed_dir / "fastp.json"), "-h", str(trimmed_dir / "fastp.html"), "-w", str(args.threads)]
         else:
@@ -276,9 +323,10 @@ def stage_sra_row(row, args, tools):
         spades = [tool_paths["spades"], "--isolate", "-o", str(spades_dir), "-t", str(args.threads)]
         if args.memory:
             spades.extend(["-m", str(args.memory)])
-        spades.extend(["-1", str(trimmed_reads[0])] if layout == "paired" else ["-s", str(trimmed_reads[0])])
-        if layout == "paired":
-            spades.extend(["-2", str(trimmed_reads[1])])
+        if layout in PAIRED_LAYOUTS:
+            spades.extend(["-1", str(trimmed_reads[0]), "-2", str(trimmed_reads[1])])
+        else:
+            spades.extend(["-s", str(trimmed_reads[0])])
         run_command(spades, commands_dir / "spades.log", args.dry_run)
         contigs = spades_dir / "contigs.fasta"
         stats = validate_fasta(contigs)
@@ -288,6 +336,8 @@ def stage_sra_row(row, args, tools):
         temporary.replace(assembly_path)
         row.update(status="present", sha256=sha256(assembly_path), **stats)
         state["state"] = "staged"
+        state.pop("error", None)
+        state.pop("classification", None)
     except AccessionFailure as error:
         row.update(status="bad_accession", error=str(error), classification=error.classification)
         state.update(state="bad_accession", error=str(error), classification=error.classification)

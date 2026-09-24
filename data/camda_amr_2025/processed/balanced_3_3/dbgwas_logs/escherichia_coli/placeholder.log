@@ -1,0 +1,2 @@
+/home/michaelwhite/AMR_v2/.pixi/envs/default/bin/python /home/michaelwhite/AMR_v2/data_pipeline/scripts/generate_pilot_dbgwas_features.py --manifest data/camda_amr_2025/processed/balanced_3_3/training_metadata.csv --assemblies-dir data/camda_amr_2025/processed/assemblies/train --output-dir data/dbgwas/p0.05/per_species --species escherichia_coli
+Wrote 3505 records to data/dbgwas/p0.05/per_species/escherichia_coli_sig_sequences.fasta

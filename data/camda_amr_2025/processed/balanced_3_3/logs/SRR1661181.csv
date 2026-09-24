@@ -1,0 +1,2 @@
+dataset,genus,species,accession,expected_path,status,source_path,sha256,contig_count,total_bases,error,classification
+training,Neisseria,gonorrhoeae,SRR1661181,data/camda_amr_2025/processed/assemblies/train/SRR1661181.fasta,present,sra:SRR1661181,36165b3ebcab8238546535701a8254a4c441e46df7a5fc0f64170817919b94f8,249,2176561,,

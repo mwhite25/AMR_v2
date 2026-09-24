@@ -1,0 +1,20 @@
+strains exit 0
+Created 1 DBGWAS strains manifests in data/camda_amr_2025/processed/dbgwas/balanced_3_3
+data/camda_amr_2025/processed/dbgwas/balanced_3_3/escherichia_coli.strains.tsv: 6 rows, classes=['0', '1']
+
+
+fill exit 0
+{
+  "species": [
+    {
+      "species": "escherichia_coli",
+      "fasta": "data/dbgwas/p0.05/per_species/escherichia_coli_sig_sequences.fasta",
+      "method": "placeholder",
+      "dbgwas_error": "DBGWAS binary not found",
+      "placeholder_returncode": 0,
+      "records": 3505
+    }
+  ]
+}
+
+

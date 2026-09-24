@@ -1,0 +1,48 @@
+{
+  "kept": 53,
+  "dropped": [
+    "ERR016650",
+    "ERR016736",
+    "ERR016769",
+    "ERR016777",
+    "ERR019734"
+  ],
+  "by_species": {
+    "acinetobacter_baumannii": {
+      "R": 3,
+      "S": 3
+    },
+    "campylobacter_jejuni": {
+      "S": 3,
+      "R": 3
+    },
+    "escherichia_coli": {
+      "S": 3,
+      "R": 3
+    },
+    "klebsiella_pneumoniae": {
+      "R": 3,
+      "S": 3
+    },
+    "neisseria_gonorrhoeae": {
+      "R": 3,
+      "S": 3
+    },
+    "pseudomonas_aeruginosa": {
+      "R": 3,
+      "S": 3
+    },
+    "salmonella_enterica": {
+      "R": 3,
+      "S": 3
+    },
+    "staphylococcus_aureus": {
+      "R": 3,
+      "S": 3
+    },
+    "streptococcus_pneumoniae": {
+      "S": 3,
+      "R": 2
+    }
+  }
+}

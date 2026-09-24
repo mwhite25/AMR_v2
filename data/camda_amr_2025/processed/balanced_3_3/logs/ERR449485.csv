@@ -1,0 +1,2 @@
+dataset,genus,species,accession,expected_path,status,source_path,sha256,contig_count,total_bases,error,classification
+training,Neisseria,gonorrhoeae,ERR449485,data/camda_amr_2025/processed/assemblies/train/ERR449485.fasta,present,sra:ERR449485,a4e02911ca81a9f486126cbd428c4319f3ea865a125538a6b429b30961a1c7bf,543,2153792,,

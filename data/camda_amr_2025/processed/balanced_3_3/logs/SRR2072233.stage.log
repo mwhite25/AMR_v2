@@ -1,0 +1,29 @@
+python data_pipeline/scripts/stage_camda_assemblies.py stage-sra --dataset training --accession SRR2072233 --threads 4 --memory 16 --resume --bad-accession-list data/camda_amr_2025/processed/bad_accessions.txt --training-metadata data/camda_amr_2025/processed/balanced_3_3/training_metadata.csv --training-dir data/camda_amr_2025/processed/assemblies/train --work-dir data/camda_amr_2025/work/assemblies --manifest data/camda_amr_2025/processed/balanced_3_3/logs/SRR2072233.csv
+{
+  "prefetch": {
+    "path": "/home/michaelwhite/AMR_v2/.pixi/envs/default/bin/prefetch",
+    "version": "/home/michaelwhite/AMR_v2/.pixi/envs/default/bin/prefetch : 3.4.1",
+    "error": ""
+  },
+  "fasterq_dump": {
+    "path": "/home/michaelwhite/AMR_v2/.pixi/envs/default/bin/fasterq-dump",
+    "version": "/home/michaelwhite/AMR_v2/.pixi/envs/default/bin/fasterq-dump : 3.4.1",
+    "error": ""
+  },
+  "fastp": {
+    "path": "/home/michaelwhite/AMR_v2/.pixi/envs/default/bin/fastp",
+    "version": "fastp 1.3.7",
+    "error": ""
+  },
+  "spades": {
+    "path": "/home/michaelwhite/AMR_v2/.pixi/envs/default/bin/spades.py",
+    "version": "SPAdes genome assembler v4.3.0",
+    "error": ""
+  }
+}
+{
+  "training": {
+    "present": 1
+  },
+  "testing": {}
+}

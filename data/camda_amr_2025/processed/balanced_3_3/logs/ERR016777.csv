@@ -1,0 +1,2 @@
+dataset,genus,species,accession,expected_path,status,source_path,sha256,contig_count,total_bases,error,classification
+training,Streptococcus,pneumoniae,ERR016777,data/camda_amr_2025/processed/assemblies/train/ERR016777.fasta,bad_accession,sra:ERR016777,,,,incomplete or ambiguous FASTQ files for ERR016777,ambiguous_fastq_layout

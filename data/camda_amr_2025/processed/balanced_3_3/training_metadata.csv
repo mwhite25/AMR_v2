@@ -1,0 +1,59 @@
+genus,species,accession,phenotype,antibiotic,measurement_sign,measurement_value,measurement_unit,laboratory_typing_method,laboratory_typing_platform,testing_standard,testing_standard_year,publication,isolation_source,isolation_country,collection_date
+Acinetobacter,baumannii,SRR1187804,Resistant,CAZ,NA,32,mg/L,Broth dilution,NA,CLSI,2013,-,URINE,USA,NA
+Acinetobacter,baumannii,SRR3152503,Susceptible,CAZ,=,4,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,Wound,USA,NA
+Acinetobacter,baumannii,SRR3168639,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,trachael aspirate,USA,NA
+Acinetobacter,baumannii,SRR3227007,Susceptible,CAZ,=,4,mg/L,Broth dilution,BD Phoenix,CLSI,2013,NA,WOUND,USA,NA
+Acinetobacter,baumannii,SRR5237398,Resistant,CAZ,NA,64,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,blood,USA,NA
+Acinetobacter,baumannii,SRR741918,Susceptible,CAZ,NA,4,mg/L,Disk diffusion,E-test,CLSI,2013,24277043,tracheal secretion,Czech Republic,NA
+Campylobacter,jejuni,SRR15053977,Susceptible,TET,<=,4,mg/L,Broth dilution,NA,CLSI,CLSI,34867917,NA,NA,NA
+Campylobacter,jejuni,SRR3480035,Susceptible,TET,=,0.12,mg/L,Broth dilution,NA,CLSI,2013,NA,Animal-Cattle-Beef Cow,USA,NA
+Campylobacter,jejuni,SRR3545870,Resistant,TET,NA,32,mg/L,Broth dilution,NA,CLSI,2013,NA,Animal-Cattle-Dairy Cow,USA,NA
+Campylobacter,jejuni,SRR3545872,Resistant,TET,NA,32,mg/L,Broth dilution,NA,CLSI,2013,NA,Animal-Cattle-Dairy Cow,USA,NA
+Campylobacter,jejuni,SRR3611736,Susceptible,TET,<=,0.06,mg/L,Broth dilution,NA,CLSI,2013,NA,Animal-Cattle-Heifer,USA,NA
+Campylobacter,jejuni,SRR3726397,Resistant,TET,NA,64,mg/L,Broth dilution,NA,CLSI,2013,NA,Animal-Cattle-Steer,USA,NA
+Escherichia,coli,ERR1218638,Susceptible,GEN,<=,1,mg/L,NA,VITEK 2,CLSI,2013,28118859,urine,Thailand,NA
+Escherichia,coli,SRR2239614,Resistant,GEN,NA,16,mg/L,Broth dilution,Sensititre,CLSI,2013,26142410,cattle,USA,NA
+Escherichia,coli,SRR2239626,Resistant,GEN,NA,16,mg/L,Broth dilution,Sensititre,CLSI,2013,26142410,cattle,USA,NA
+Escherichia,coli,SRR2239630,Susceptible,GEN,=,0.5,mg/L,Broth dilution,Sensititre,CLSI,2013,26142410,cattle,USA,NA
+Escherichia,coli,SRR2449085,Resistant,GEN,NA,16,mg/L,Broth dilution,VITEK 2,CLSI,2013,NA,blood,USA,NA
+Escherichia,coli,SRR5482170,Susceptible,GEN,=,1,mg/L,Broth dilution,NA,CLSI,2013,NA,NA,2009-10-25,NA
+Klebsiella,pneumoniae,ERR1218574,Resistant,GEN,NA,16,mg/L,NA,VITEK 2,CLSI,2013,28118859,blood,Thailand,NA
+Klebsiella,pneumoniae,ERR3164771,Susceptible,GEN,NA,2,mg/L,Broth dilution,NA,CLSI,2013,33188415,NA,Italy,NA
+Klebsiella,pneumoniae,ERR775546,Resistant,GEN,NA,16,mg/L,Broth dilution,VITEK 2,CLSI,2013,30787414,Urine,Pakistan,NA
+Klebsiella,pneumoniae,SRR5386170,Susceptible,GEN,<=,2,mg/L,Broth dilution,BD Phoenix,CLSI,2013,28512093,NA,2012-10-01,NA
+Klebsiella,pneumoniae,SRR5386547,Susceptible,GEN,<=,2,mg/L,Broth dilution,BD Phoenix,CLSI,2013,28512093,NA,2013-05-15,NA
+Klebsiella,pneumoniae,SRR5386785,Intermediate,GEN,NA,4,mg/L,Broth dilution,BD Phoenix,CLSI,2013,28512093,NA,2014-04-20,NA
+Neisseria,gonorrhoeae,DRR124693,Intermediate,TET,Neisseria gonorrhoeae,0.5,mg/L,Disk diffusion,E-test,CLSI,2013,32602459,NA,Japan,NA
+Neisseria,gonorrhoeae,ERR2133906,Susceptible,TET,<=,0.08,mg/L,Broth dilution,NA,CLSI,2013,29247013,Rectal,Australia,NA
+Neisseria,gonorrhoeae,ERR449485,Susceptible,TET,NA,0.125,mg/L,Disk diffusion,E-test,CLSI,2013,31358980,NA,Cape Verde,NA
+Neisseria,gonorrhoeae,ERR449512,Susceptible,TET,NA,0.125,mg/L,Disk diffusion,E-test,CLSI,2013,31358980,NA,Guinea-Bissau,NA
+Neisseria,gonorrhoeae,SRR1661181,Resistant,TET,NA,2,mg/L,Broth dilution,NA,CLSI,2013,25378573,Penis/Urethra,Canada,NA
+Neisseria,gonorrhoeae,SRR969351,Resistant,TET,NA,8,mg/L,Broth dilution,NA,CLSI,2013,25780762,urinogenital fluid,Canada,NA
+Pseudomonas,aeruginosa,SRR10037257,Resistant,CAZ,NA,128,mg/L,NA,NA,CLSI,2013,31530672,NA,USA,NA
+Pseudomonas,aeruginosa,SRR8737434,Susceptible,CAZ,NA,1,mg/L,Broth dilution,NA,CLSI,2013,32048461,NA,Germany,NA
+Pseudomonas,aeruginosa,SRR8737435,Susceptible,CAZ,NA,2,mg/L,Broth dilution,NA,CLSI,2013,32048461,NA,Germany,NA
+Pseudomonas,aeruginosa,SRR8737442,Intermediate,CAZ,NA,16,mg/L,Broth dilution,NA,CLSI,2013,32048461,NA,Germany,NA
+Pseudomonas,aeruginosa,SRR8737489,Resistant,CAZ,NA,128,mg/L,Broth dilution,NA,CLSI,2013,32048461,NA,Germany,NA
+Pseudomonas,aeruginosa,SRR8737504,Susceptible,CAZ,NA,1,mg/L,Broth dilution,NA,CLSI,2013,32048461,NA,Germany,NA
+Salmonella,enterica,ERR1197666,Resistant,GEN,NA,28,mm,Disk diffusion,NA,CLSI,2013,28931025,NA,Cambodia,NA
+Salmonella,enterica,ERR1197669,Resistant,GEN,NA,26,mm,Disk diffusion,NA,CLSI,2013,28931025,NA,Cambodia,NA
+Salmonella,enterica,SRR2566877,Susceptible,GEN,=,0.5,mg/L,Broth dilution,NA,CLSI,2013,27381390,Chicken Breast,USA,NA
+Salmonella,enterica,SRR2566929,Susceptible,GEN,=,0.5,mg/L,Broth dilution,CMV2AGNF/CMV3AGNF,CLSI,2013,27381390,Pork Chops,USA,NA
+Salmonella,enterica,SRR3096080,Susceptible,GEN,NA,0.5,mg/L,Broth dilution,Sensititre,CLSI,2013,30333126,Ground Turkey,USA,NA
+Salmonella,enterica,SRR3223097,Resistant,GEN,NA,16,mg/L,Broth dilution,Sensititre,CLSI,2013,30333126,Chicken Breast,USA,NA
+Staphylococcus,aureus,ERR029343,Resistant,ERY,NA,NA,NA,Disk diffusion,NA,CLSI,2013,25903077,NA,Singapore,NA
+Staphylococcus,aureus,ERR029344,Susceptible,ERY,NA,NA,NA,Disk diffusion,NA,CLSI,2013,25903077,NA,Singapore,NA
+Staphylococcus,aureus,ERR029345,Resistant,ERY,NA,NA,NA,Disk diffusion,NA,CLSI,2013,25903077,NA,Singapore,NA
+Staphylococcus,aureus,ERR029347,Resistant,ERY,NA,NA,NA,Disk diffusion,NA,CLSI,2013,25903077,NA,Singapore,NA
+Staphylococcus,aureus,ERR029348,Susceptible,ERY,NA,NA,NA,Disk diffusion,NA,CLSI,2013,25903077,NA,Singapore,NA
+Staphylococcus,aureus,ERR029379,Susceptible,ERY,NA,NA,NA,Disk diffusion,NA,CLSI,2013,25903077,NA,Singapore,NA
+Streptococcus,pneumoniae,ERR016650,Resistant,ERY,NA,128,mg/L,Broth dilution,NA,CLSI,2013,NA,Sputum,South Korea,NA
+Streptococcus,pneumoniae,ERR016736,Susceptible,ERY,NA,0.12,mg/L,Broth dilution,NA,CLSI,2013,NA,NA,Germany,NA
+Streptococcus,pneumoniae,ERR016769,Resistant,ERY,NA,256,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,South Africa,NA
+Streptococcus,pneumoniae,ERR124308,Susceptible,ERY,NA,0.047,mg/L,Broth dilution,NA,CLSI,2013,23644493,nasopharynx,USA,NA
+Streptococcus,pneumoniae,SRR4417290,Susceptible,ERY,<=,0.25,mg/L,Broth dilution,NA,CLSI,2013,28531208,NA,Canada,NA
+Streptococcus,pneumoniae,SRR4417363,Resistant,ERY,NA,2,mg/L,Broth dilution,NA,CLSI,2013,28531208,NA,Canada,NA
+Streptococcus,pneumoniae,ERR016777,Resistant,ERY,NA,256,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood & Pleural,South Africa,NA
+Streptococcus,pneumoniae,ERR124227,Susceptible,ERY,NA,0.064,mg/L,Broth dilution,NA,CLSI,2013,23644493,nasopharynx,USA,NA
+Streptococcus,pneumoniae,ERR019734,Resistant,ERY,NA,32,mg/L,Broth dilution,NA,CLSI,2013,NA,Blood,USA,NA
+Streptococcus,pneumoniae,SRR2072233,Resistant,ERY,NA,4,mg/L,Broth dilution,Sensititre,CLSI,2013,NA,NA,NA,NA

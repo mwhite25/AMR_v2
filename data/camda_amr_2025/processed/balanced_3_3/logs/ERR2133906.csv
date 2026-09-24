@@ -1,0 +1,2 @@
+dataset,genus,species,accession,expected_path,status,source_path,sha256,contig_count,total_bases,error,classification
+training,Neisseria,gonorrhoeae,ERR2133906,data/camda_amr_2025/processed/assemblies/train/ERR2133906.fasta,present,sra:ERR2133906,940b6b7e36fd7af072ef6d03879474493ae47d0d6ae015a462b8b6daa3cf1eae,359,2150126,,

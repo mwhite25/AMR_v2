@@ -28,6 +28,7 @@ peft = ">=0.20.0,<0.21"
 wandb = ">=0.30.0,<0.31"
 sentencepiece = ">=0.2.1,<0.3"
 einops = ">=0.8.2,<0.9"
+scikit-learn = ">=1.9.1,<2"
 
 # [feature.assembly.dependencies]
 # blast = "*"

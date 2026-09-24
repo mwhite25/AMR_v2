@@ -58,7 +58,7 @@ class TrainingArguments(transformers.TrainingArguments):
     logging_steps: int = field(default=100)
     save_steps: int = field(default=100)
     eval_steps: int = field(default=100)
-    evaluation_strategy: str = field(default="steps"),
+    evaluation_strategy: str = field(default="steps")
     warmup_steps: int = field(default=50)
     weight_decay: float = field(default=0.01)
     learning_rate: float = field(default=1e-4)
@@ -333,7 +333,7 @@ def train():
         }
         )
         #config = wandb.config
-    except RuntimeError:
+    except (RuntimeError, ValueError):
         print('Not using DDP!')
         wandb.init(
             project="AMR-DNABERT2-finetune",
@@ -451,7 +451,7 @@ class WandbConfusionMatrixCallback(TrainerCallback):
                         class_names = ['Resistant', 'Susceptible']
                             )
                         })
-        except RuntimeError:
+        except (RuntimeError, ValueError):
             if hasattr(calculate_metric_with_sklearn, "last_preds"):
                 wandb.log({
                     "eval/confusion_matrix": wandb.plot.confusion_matrix(

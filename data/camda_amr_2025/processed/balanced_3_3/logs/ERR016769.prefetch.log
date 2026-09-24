@@ -1,0 +1,9 @@
+prefetch ERR016769 -O data/camda_amr_2025/work/assemblies/training/ERR016769/sra
+2026-09-23T04:44:25 prefetch.3.4.1: 1) Resolving 'ERR016769'...
+2026-09-23T04:44:48 prefetch.3.4.1: Current preference is set to retrieve SRA Normalized Format files with full base quality scores
+2026-09-23T04:44:49 prefetch.3.4.1: 1) Downloading 'ERR016769'...
+2026-09-23T04:44:49 prefetch.3.4.1:  SRA Normalized Format file is being retrieved
+2026-09-23T04:44:49 prefetch.3.4.1:  Downloading via HTTPS...
+2026-09-23T04:44:55 prefetch.3.4.1:  HTTPS download succeed
+2026-09-23T04:44:56 prefetch.3.4.1:  'ERR016769' is valid: 69841749 bytes were streamed from 69830501
+2026-09-23T04:44:56 prefetch.3.4.1: 1) 'ERR016769' was downloaded successfully

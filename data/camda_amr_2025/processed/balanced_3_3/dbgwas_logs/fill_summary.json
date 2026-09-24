@@ -1,0 +1,12 @@
+{
+  "species": [
+    {
+      "species": "escherichia_coli",
+      "fasta": "data/dbgwas/p0.05/per_species/escherichia_coli_sig_sequences.fasta",
+      "method": "placeholder",
+      "dbgwas_error": "DBGWAS binary not found",
+      "placeholder_returncode": 0,
+      "records": 3505
+    }
+  ]
+}
